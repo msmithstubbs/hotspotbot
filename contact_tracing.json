@@ -203,6 +203,16 @@ Generated hotspotbot app
       "timetext": "2.51pm - 5pm"
     },
     {
+      "added": "2021-08-04T14:19",
+      "address": "53 Ward St",
+      "date": "2021-07-28T18:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Australia Girls’ Choir Practise – Brigidine College",
+      "suburb": "Indooroopilly",
+      "timetext": "6pm - 6.35pm"
+    },
+    {
       "added": "2021-07-31T17:59",
       "address": "Nicholas street, (Ipswich Mall) Including d’Arcy Doyle Place",
       "date": "2021-07-29T08:00",
@@ -413,6 +423,16 @@ Generated hotspotbot app
       "timetext": "12pm - 1.15pm"
     },
     {
+      "added": "2021-08-04T14:19",
+      "address": "111 Constance St",
+      "date": "2021-07-30T12:12",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "1st floor & 1st floor toilet, Oche Fortitude Valley - Take-away",
+      "suburb": "Fortitude Valley",
+      "timetext": "12.12pm - 3.30pm"
+    },
+    {
       "added": "2021-08-01T17:26",
       "address": "10/620 Moggill Rd",
       "date": "2021-07-30T12:20",
@@ -498,7 +518,7 @@ Generated hotspotbot app
       "date": "2021-07-30T8:30",
       "datetext": "Friday 30 July 2021",
       "lgas": "QLD21",
-      "location": "Female Toilet, 2nd Floor , 10/621 Coronation Dr Toowong",
+      "location": "Female Toilet, 2nd Floor, 10/621 Coronation Dr Toowong",
       "suburb": "Toowong",
       "timetext": "8.30am - 11.30am"
     },
@@ -1605,6 +1625,16 @@ Generated hotspotbot app
       "timetext": "3.15pm - 3.51pm"
     },
     {
+      "added": "2021-08-04T14:18",
+      "address": "Indooroopilly State High School, 111 Ward Street",
+      "date": "2021-07-29T15:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Senior Subject Selection EXPO",
+      "suburb": "Indooroopilly",
+      "timetext": "3.30pm - 8pm"
+    },
+    {
       "added": "2021-08-01T17:25",
       "address": "8/48-52 Sherwood Rd",
       "date": "2021-07-29T15:55",
@@ -1825,12 +1855,12 @@ Generated hotspotbot app
       "timetext": "12pm - 12.40pm"
     },
     {
-      "added": "2021-08-03T21:23",
+      "added": "2021-08-04T14:18",
       "address": "111 Constance St",
       "date": "2021-07-30T12:12",
       "datetext": "Friday 30 July 2021",
       "lgas": "QLD21",
-      "location": "Oche Fortitude Valley, 1st floor & 1st floor toilet",
+      "location": "1st floor & 1st floor toilet, Oche Fortitude Valley - Dine-in",
       "suburb": "Fortitude Valley",
       "timetext": "12.12pm - 3.30pm"
     },
@@ -1915,16 +1945,6 @@ Generated hotspotbot app
       "timetext": "3pm - 3.26pm"
     },
     {
-      "added": "2021-08-02T18:41",
-      "address": "9/39 Campbell St",
-      "date": "2021-07-30T15:00",
-      "datetext": "Friday 30 July 2021",
-      "lgas": "QLD21",
-      "location": "Sharee Skye Dance Classes",
-      "suburb": "Toowong",
-      "timetext": "3pm - 5.15pm"
-    },
-    {
       "added": "2021-08-03T12:09",
       "address": "2 Hawken Drive",
       "date": "2021-07-30T15:00",
@@ -1953,6 +1973,16 @@ Generated hotspotbot app
       "location": "Jacqui E",
       "suburb": "Indooroopilly",
       "timetext": "3.30pm - 3.50pm"
+    },
+    {
+      "added": "2021-08-04T14:18",
+      "address": "9/39 Campbell St",
+      "date": "2021-07-30T15:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Sharee Skye Dance Centre",
+      "suburb": "Toowong",
+      "timetext": "3.30pm - 5.20pm"
     },
     {
       "added": "2021-08-03T20:32",
@@ -2075,16 +2105,6 @@ Generated hotspotbot app
       "timetext": "9.45am - 11.30am"
     },
     {
-      "added": "2021-08-02T21:50",
-      "address": "Sir William MacGregor Drive",
-      "date": "2021-07-31T10:00",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "UQ Playground St Lucia",
-      "suburb": "St Lucia",
-      "timetext": "10am - 11am"
-    },
-    {
       "added": "2021-08-03T20:32",
       "address": "281 Montague Rd",
       "date": "2021-07-31T10:00",
@@ -2093,6 +2113,16 @@ Generated hotspotbot app
       "location": "TOMRA recycling centre west end",
       "suburb": "West End",
       "timetext": "10am - 11.05am"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Sir William MacGregor Drive",
+      "date": "2021-07-31T10:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Playground St Lucia",
+      "suburb": "St Lucia",
+      "timetext": "10am - 11am"
     },
     {
       "added": "2021-08-02T18:41",
@@ -2155,16 +2185,6 @@ Generated hotspotbot app
       "timetext": "11.30am - 11.40am"
     },
     {
-      "added": "2021-08-03T13:31",
-      "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
-      "date": "2021-07-31T11:40",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "Izakaya Sushu",
-      "suburb": "Indooroopilly",
-      "timetext": "11.40am - 12.05pm"
-    },
-    {
       "added": "2021-08-03T20:32",
       "address": "West End Markets",
       "date": "2021-07-31T11:40",
@@ -2173,6 +2193,16 @@ Generated hotspotbot app
       "location": "Fresh berries direct",
       "suburb": "West End",
       "timetext": "11.40am - 11.50am"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
+      "date": "2021-07-31T11:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Izakaya Sushu",
+      "suburb": "Indooroopilly",
+      "timetext": "11.40am - 12.05pm"
     },
     {
       "added": "2021-08-02T15:54",
@@ -2185,16 +2215,6 @@ Generated hotspotbot app
       "timetext": "11.45am - 1.15pm"
     },
     {
-      "added": "2021-08-02T21:50",
-      "address": "78-80 Coonan Street",
-      "date": "2021-07-31T11:50",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "McDonalds Indooroopilly",
-      "suburb": "Indooroopilly",
-      "timetext": "11.50am - 12pm"
-    },
-    {
       "added": "2021-08-03T20:32",
       "address": "West End Markets",
       "date": "2021-07-31T11:50",
@@ -2205,6 +2225,26 @@ Generated hotspotbot app
       "timetext": "11.50am - 11.55am"
     },
     {
+      "added": "2021-08-02T21:50",
+      "address": "78-80 Coonan Street",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "11.50am - 12pm"
+    },
+    {
+      "added": "2021-08-04T14:18",
+      "address": "Westend markets",
+      "date": "2021-07-31T11:55",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Seafood Direct Butcher Boy Meats (Trade Winds Seafood Runaway Bay)",
+      "suburb": "West End",
+      "timetext": "11.55am - 12.05pm"
+    },
+    {
       "added": "2021-08-03T13:31",
       "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
       "date": "2021-07-31T11:55",
@@ -2213,16 +2253,6 @@ Generated hotspotbot app
       "location": "Kmart",
       "suburb": "Indooroopilly",
       "timetext": "11.55am - 12.15pm"
-    },
-    {
-      "added": "2021-08-03T20:32",
-      "address": "West End Markets",
-      "date": "2021-07-31T11:55",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD142",
-      "location": "Trade Winds Seafood Runaway Bay",
-      "suburb": "West End",
-      "timetext": "11.55am - 12.05pm"
     },
     {
       "added": "2021-08-03T15:34",
@@ -2245,16 +2275,6 @@ Generated hotspotbot app
       "timetext": "12pm - 12.50pm"
     },
     {
-      "added": "2021-08-02T18:41",
-      "address": "Indooroopilly shopping centre",
-      "date": "2021-07-31T12:05",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "Kmart",
-      "suburb": "Indooroopilly",
-      "timetext": "12.05pm - 12.15pm"
-    },
-    {
       "added": "2021-08-03T20:32",
       "address": "West End Markets",
       "date": "2021-07-31T12:05",
@@ -2262,6 +2282,16 @@ Generated hotspotbot app
       "lgas": "QLD142",
       "location": "Juicy Choice",
       "suburb": "West End",
+      "timetext": "12.05pm - 12.15pm"
+    },
+    {
+      "added": "2021-08-02T18:41",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-31T12:05",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Kmart",
+      "suburb": "Indooroopilly",
       "timetext": "12.05pm - 12.15pm"
     },
     {
@@ -2425,6 +2455,16 @@ Generated hotspotbot app
       "location": "Holy Family School Hall",
       "suburb": "Indooroopilly",
       "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-04T14:20",
+      "address": "Airport Drive",
+      "date": "2021-07-28T07:20",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Qantas Domestic Airport Brisbane",
+      "suburb": "Brisbane Airport",
+      "timetext": "7.20am - 8.30am"
     },
     {
       "added": "2021-08-02T14:00",
@@ -2607,16 +2647,6 @@ Generated hotspotbot app
       "timetext": "8.20am - 8.30am"
     },
     {
-      "added": "2021-08-03T15:37",
-      "address": "179 Ann St",
-      "date": "2021-07-30T08:30",
-      "datetext": "Friday 30 July 2021",
-      "lgas": "QLD21",
-      "location": "179 Ann St Parking",
-      "suburb": "Brisbane City",
-      "timetext": "8.30am - 8.40am"
-    },
-    {
       "added": "2021-08-03T20:40",
       "address": "10/621 Coronation Dr",
       "date": "2021-07-30T08:30",
@@ -2625,6 +2655,16 @@ Generated hotspotbot app
       "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
       "suburb": "Toowong",
       "timetext": "8.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-03T15:37",
+      "address": "179 Ann St",
+      "date": "2021-07-30T08:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "179 Ann St Parking",
+      "suburb": "Brisbane City",
+      "timetext": "8.30am - 8.40am"
     },
     {
       "added": "2021-08-03T15:37",
@@ -2675,6 +2715,16 @@ Generated hotspotbot app
       "location": "Rockhampton Airport",
       "suburb": "West Rockhampton",
       "timetext": "5.25pm - 6.35pm"
+    },
+    {
+      "added": "2021-08-04T14:20",
+      "address": "Airport Drive",
+      "date": "2021-07-30T19:50",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Qantas Domestic Airport Brisbane",
+      "suburb": "Brisbane Airport",
+      "timetext": "7.50pm - 8.30pm"
     },
     {
       "added": "2021-08-03T17:52",
