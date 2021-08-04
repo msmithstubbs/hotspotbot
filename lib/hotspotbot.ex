@@ -22,7 +22,7 @@ defmodule Hotspotbot do
     with {:ok, response} <- HTTPoison.get(@url),
          {:ok, document} <- Floki.parse_document(response.body) do
       extract(document)
-      |> Jason.encode!()
+      |> Jason.encode!(pretty: true)
       |> IO.puts()
     end
   end

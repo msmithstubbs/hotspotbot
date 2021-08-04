@@ -24,7 +24,7 @@ jobs:
       run: mix deps.compile
     - name: Fetch latest data
       run: |-
-        mix run -e "Hotspotbot.run" | jq . > incidents.json
+        mix run -e "Hotspotbot.run" > contact_tracing.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
