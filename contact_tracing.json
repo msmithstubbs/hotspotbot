@@ -373,6 +373,16 @@ Generated hotspotbot app
       "timetext": "4.20pm - 4.25pm"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "66 Harts Rd",
+      "date": "2021-07-29T18:32",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "St Peters Lutheran College – Open-air corridor outside debating rooms",
+      "suburb": "Indooroopilly",
+      "timetext": "6.32pm - 6.45pm"
+    },
+    {
       "added": "2021-08-01T20:22",
       "address": "66 Harts Rd",
       "date": "2021-07-29T19:30",
@@ -1045,6 +1055,16 @@ Generated hotspotbot app
       "timetext": "6.20pm - 6.55pm"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-26T00:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
+      "suburb": "Spring Hill",
+      "timetext": "12am - 11.59pm"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "2 Hawken Drive",
       "date": "2021-07-26T00:00",
@@ -1103,6 +1123,16 @@ Generated hotspotbot app
       "location": "Lees & Henschell Optometry Kenmore",
       "suburb": "Kenmore",
       "timetext": "3pm - 3.30pm"
+    },
+    {
+      "added": "2021-08-04T20:28",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
+      "suburb": "Spring Hill",
+      "timetext": "12am - 11.59pm"
     },
     {
       "added": "2021-08-03T20:32",
@@ -1165,6 +1195,16 @@ Generated hotspotbot app
       "timetext": "8am - 10am"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "Queensland Cultural Centre, Stanley Place.",
+      "date": "2021-07-27T09:45",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Queensland Gallery of Modern Art",
+      "suburb": "South Brisbane",
+      "timetext": "9.45am - 10.45am"
+    },
+    {
       "added": "2021-08-04T16:41",
       "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
       "date": "2021-07-27T11:44",
@@ -1213,6 +1253,16 @@ Generated hotspotbot app
       "location": "JKA Karate",
       "suburb": "Indooroopilly",
       "timetext": "6pm - 7.40pm"
+    },
+    {
+      "added": "2021-08-04T20:28",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
+      "suburb": "Spring Hill",
+      "timetext": "12am - 11.59pm"
     },
     {
       "added": "2021-08-03T20:32",
@@ -1415,6 +1465,16 @@ Generated hotspotbot app
       "timetext": "12am - 11.59pm"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-29T00:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
+      "suburb": "Spring Hill",
+      "timetext": "12am - 11.59pm"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "2 Hawken Drive",
       "date": "2021-07-29T00:00",
@@ -1453,16 +1513,6 @@ Generated hotspotbot app
       "location": "Bus 432",
       "suburb": "Bus route 432",
       "timetext": "7.41am - 8.01am"
-    },
-    {
-      "added": "2021-08-01T15:36",
-      "address": "24 Gregory Terrace",
-      "date": "2021-07-29T08:00",
-      "datetext": "Thursday 29 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane Grammar School (Boys) including extracurricular activities",
-      "suburb": "Spring Hill",
-      "timetext": "8am - 3pm"
     },
     {
       "added": "2021-07-31T17:03",
@@ -1685,6 +1735,16 @@ Generated hotspotbot app
       "timetext": "2.55pm - 3.15pm"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-29T15:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "ALDI",
+      "suburb": "Indooroopilly",
+      "timetext": "3pm - 4pm"
+    },
+    {
       "added": "2021-08-01T20:22",
       "address": "Gregory Tce at Torrington street, stop 5",
       "date": "2021-07-29T15:00",
@@ -1743,16 +1803,6 @@ Generated hotspotbot app
       "location": "Senior Subject Selection EXPO",
       "suburb": "Indooroopilly",
       "timetext": "3.30pm - 8pm"
-    },
-    {
-      "added": "2021-08-04T18:26",
-      "address": "Indooroopilly Shopping Centre",
-      "date": "2021-07-29T15:31",
-      "datetext": "Thursday 29 July 2021",
-      "lgas": "QLD21",
-      "location": "ALDI",
-      "suburb": "Indooroopilly",
-      "timetext": "3.31pm - 4.01pm"
     },
     {
       "added": "2021-08-01T17:25",
@@ -1815,22 +1865,12 @@ Generated hotspotbot app
       "timetext": "6.12pm - 7.15pm"
     },
     {
-      "added": "2021-08-04T18:26",
-      "address": "66 Harts Rd",
-      "date": "2021-07-29T18:32",
-      "datetext": "Thursday 29 July 2021",
-      "lgas": "QLD21",
-      "location": "St Peters Lutheran College – Open-air corridor outside debating rooms",
-      "suburb": "Indooroopilly",
-      "timetext": "6.32pm - 6.50pm"
-    },
-    {
-      "added": "2021-08-04T18:26",
+      "added": "2021-08-04T20:28",
       "address": "66 Harts Rd",
       "date": "2021-07-29T18:45",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD21",
-      "location": "St Peters Lutheran College – Debating event Room MSN3",
+      "location": "St Peters Lutheran College – All debating rooms",
       "suburb": "Indooroopilly",
       "timetext": "6.45pm - 8.30pm"
     },
@@ -1855,6 +1895,16 @@ Generated hotspotbot app
       "timetext": "12am - 4pm"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
+      "suburb": "Spring Hill",
+      "timetext": "12am - 11.59pm"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "2 Hawken Drive",
       "date": "2021-07-30T00:00",
@@ -1873,16 +1923,6 @@ Generated hotspotbot app
       "location": "Outside School Hours Care, Ironside State School",
       "suburb": "St Lucia",
       "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-08-01T20:22",
-      "address": "24 Gregory Terrace",
-      "date": "2021-07-30T06:30",
-      "datetext": "Friday 30 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane Grammar School (Boys) including extracurricular activities",
-      "suburb": "Spring Hill",
-      "timetext": "6.30am - 3pm"
     },
     {
       "added": "2021-08-02T21:50",
@@ -2295,6 +2335,16 @@ Generated hotspotbot app
       "timetext": "10.28am - 11.10am"
     },
     {
+      "added": "2021-08-04T20:28",
+      "address": "400 Stafford Road.",
+      "date": "2021-07-31T10:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Stafford City Shopping Centre - Food Court",
+      "suburb": "Stafford",
+      "timetext": "10.30am - 11.20am"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "31 Hardgrave Rd",
       "date": "2021-07-31T11:19",
@@ -2615,6 +2665,16 @@ Generated hotspotbot app
       "location": "Holy Family School Hall",
       "suburb": "Indooroopilly",
       "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-04T20:25",
+      "address": "South Bank Promenade",
+      "date": "2021-07-27T10:45",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "South Bank - walkway from the Cultural Centre to the Wheel of Brisbane",
+      "suburb": "South Brisbane",
+      "timetext": "10.45am - 11.20am"
     },
     {
       "added": "2021-08-02T21:51",
@@ -2965,6 +3025,16 @@ Generated hotspotbot app
       "location": "McDonalds Indooroopilly",
       "suburb": "Indooroopilly",
       "timetext": "10.40am - 10.50am"
+    },
+    {
+      "added": "2021-08-04T20:25",
+      "address": "400 Stafford Road.",
+      "date": "2021-07-31T11:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Stafford City Shopping Centre",
+      "suburb": "Stafford",
+      "timetext": "11am - 11.20am"
     },
     {
       "added": "2021-08-04T09:32",
