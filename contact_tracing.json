@@ -593,6 +593,16 @@ Generated hotspotbot app
       "timetext": "11.27am - 12.50pm"
     },
     {
+      "added": "2021-08-04T18:26",
+      "address": "Hyperdome Shopping Centre, Corner Pacific Highway and Bryants Rd",
+      "date": "2021-07-31T11:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD89",
+      "location": "Coles",
+      "suburb": "Loganholme",
+      "timetext": "11.30am - 1.15pm"
+    },
+    {
       "added": "2021-08-02T18:43",
       "address": "Indooroopilly shopping centre",
       "date": "2021-07-31T11:50",
@@ -601,6 +611,16 @@ Generated hotspotbot app
       "location": "Izakaya Sushi",
       "suburb": "Indooroopilly",
       "timetext": "11.50am - 12.05pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-31T12:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Fitness First",
+      "suburb": "Indooroopilly",
+      "timetext": "12pm - 3.30pm"
     },
     {
       "added": "2021-08-02T21:51",
@@ -613,6 +633,26 @@ Generated hotspotbot app
       "timetext": "12.45pm - 1pm"
     },
     {
+      "added": "2021-08-04T18:26",
+      "address": "Hyperdome Shopping Centre, Corner Pacific Highway and Bryants Rd",
+      "date": "2021-07-31T12:55",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD89",
+      "location": "Robins Kitchen",
+      "suburb": "Loganholme",
+      "timetext": "12.55pm - 1.15pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "Hyperdome Shopping Centre, Corner Pacific Highway and Bryants Rd",
+      "date": "2021-07-31T13:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD89",
+      "location": "Earth Markets",
+      "suburb": "Loganholme",
+      "timetext": "1pm - 1.20pm"
+    },
+    {
       "added": "2021-08-02T21:51",
       "address": "Shop 3, 28 Hawken Street",
       "date": "2021-07-31T13:15",
@@ -621,6 +661,26 @@ Generated hotspotbot app
       "location": "Liqourland Ironside (Patrons)",
       "suburb": "St Lucia",
       "timetext": "1.15pm - 1.20pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "78–80 Bryants Rd",
+      "date": "2021-07-31T13:15",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD89",
+      "location": "Ampol Foodary",
+      "suburb": "Loganholme",
+      "timetext": "1.15pm - 1.35pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "Shop 1 / 18 Stamford Road",
+      "date": "2021-07-31T15:20",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Guzman y Gomez",
+      "suburb": "Indooroopilly",
+      "timetext": "3.20pm - 3.40pm"
     }
   ],
   "close": [
@@ -1355,6 +1415,16 @@ Generated hotspotbot app
       "timetext": "6.45am - 8.10am"
     },
     {
+      "added": "2021-08-04T18:26",
+      "address": "Moggill Rd stop 27(Indooroopilly State Primary School) to Lambert Rd Stop 25 (Indooroopilly State High School)",
+      "date": "2021-07-29T07:41",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Bus 432",
+      "suburb": "Bus route 432",
+      "timetext": "7.41am - 8.01am"
+    },
+    {
       "added": "2021-08-01T15:36",
       "address": "24 Gregory Terrace",
       "date": "2021-07-29T08:00",
@@ -1625,6 +1695,16 @@ Generated hotspotbot app
       "timetext": "3.15pm - 3.51pm"
     },
     {
+      "added": "2021-08-04T18:26",
+      "address": "Lambert Rd Stop 26 (St Peters Lutheran College) to Station Rd Stop E (Indooroopilly Shopping Centre)",
+      "date": "2021-07-29T15:16",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Bus 718",
+      "suburb": "Bus route 718",
+      "timetext": "3.16pm - 3.28pm"
+    },
+    {
       "added": "2021-08-04T14:18",
       "address": "Indooroopilly State High School, 111 Ward Street",
       "date": "2021-07-29T15:30",
@@ -1633,6 +1713,16 @@ Generated hotspotbot app
       "location": "Senior Subject Selection EXPO",
       "suburb": "Indooroopilly",
       "timetext": "3.30pm - 8pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-29T15:31",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "ALDI",
+      "suburb": "Indooroopilly",
+      "timetext": "3.31pm - 4.01pm"
     },
     {
       "added": "2021-08-01T17:25",
@@ -1695,14 +1785,24 @@ Generated hotspotbot app
       "timetext": "6.12pm - 7.15pm"
     },
     {
-      "added": "2021-08-03T18:42",
+      "added": "2021-08-04T18:26",
       "address": "66 Harts Rd",
-      "date": "2021-07-29T19:20",
+      "date": "2021-07-29T18:32",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "St Peters Lutheran College – Open-air corridor outside debating rooms",
+      "suburb": "Indooroopilly",
+      "timetext": "6.32pm - 6.50pm"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "66 Harts Rd",
+      "date": "2021-07-29T18:45",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD21",
       "location": "St Peters Lutheran College – Debating event Room MSN3",
       "suburb": "Indooroopilly",
-      "timetext": "7.20pm - 8.30pm"
+      "timetext": "6.45pm - 8.30pm"
     },
     {
       "added": "2021-08-04T10:57",
@@ -2215,6 +2315,16 @@ Generated hotspotbot app
       "timetext": "11.45am - 1.15pm"
     },
     {
+      "added": "2021-08-04T18:26",
+      "address": "Shop 4/530 Milton Rd",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Toowong Fish Market",
+      "suburb": "Toowong",
+      "timetext": "11.50am - 12.20pm"
+    },
+    {
       "added": "2021-08-02T21:50",
       "address": "78-80 Coonan Street",
       "date": "2021-07-31T11:50",
@@ -2333,6 +2443,16 @@ Generated hotspotbot app
       "location": "Hawken Drive Pharmacy",
       "suburb": "St Lucia",
       "timetext": "8.13am - 8.20am"
+    },
+    {
+      "added": "2021-08-04T18:26",
+      "address": "70 Bryants Rd",
+      "date": "2021-08-02T14:30",
+      "datetext": "Monday 2 August 2021",
+      "lgas": "QLD89",
+      "location": "Chemist Warehouse",
+      "suburb": "Shailer Park",
+      "timetext": "2.30pm - 3.05pm"
     },
     {
       "added": "2021-08-04T10:57",
@@ -2577,6 +2697,16 @@ Generated hotspotbot app
       "timetext": "3.10pm - 3.30pm"
     },
     {
+      "added": "2021-08-04T18:27",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-29T15:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "David Jones",
+      "suburb": "Indooroopilly",
+      "timetext": "3.30pm - 3.31pm"
+    },
+    {
       "added": "2021-08-03T19:07",
       "address": "322 Moggill Road",
       "date": "2021-07-29T16:15",
@@ -2785,6 +2915,16 @@ Generated hotspotbot app
       "location": "Indooroopilly Shopping Centre",
       "suburb": "Indooroopilly",
       "timetext": "11.15am - 12.50pm"
+    },
+    {
+      "added": "2021-08-04T18:27",
+      "address": "Corner Pacific Highway and Bryants Rd",
+      "date": "2021-07-31T11:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD89",
+      "location": "Hyperdome Shopping Centre",
+      "suburb": "Loganholme",
+      "timetext": "11.30am - 1.20pm"
     },
     {
       "added": "2021-08-03T20:40",
