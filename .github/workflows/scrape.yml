@@ -20,7 +20,7 @@ jobs:
         otp-version: '24.0' # Define the OTP version [required]
     - name: Install dependencies
       run: mix deps.get
-   - name: Compile dependencies
+    - name: Compile dependencies
       run: mix deps.compile
     - name: Fetch latest data
       run: |-
