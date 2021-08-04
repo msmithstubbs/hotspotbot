@@ -413,6 +413,26 @@ Generated hotspotbot app
       "timetext": "9.54am - 12.20pm"
     },
     {
+      "added": "2021-08-04T19:09",
+      "address": "15 Lissner Street",
+      "date": "2021-07-30T11:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Transport and Main Roads Toowong",
+      "suburb": "Toowong",
+      "timetext": "11.20am - 11.25am"
+    },
+    {
+      "added": "2021-08-04T19:09",
+      "address": "Shop G57, Toowong Village Shopping Centre",
+      "date": "2021-07-30T11:35",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Boost Juice",
+      "suburb": "Toowong",
+      "timetext": "11.35am - 11.45am"
+    },
+    {
       "added": "2021-08-02T21:51",
       "address": "UQ Union Complex, The University of Queensland, Campbell Place, off Union Road.",
       "date": "2021-07-30T12:00",
@@ -551,6 +571,16 @@ Generated hotspotbot app
       "location": "Reef Fleet Terminal Pier Cairns",
       "suburb": "Cairns City",
       "timetext": "8am - 9am"
+    },
+    {
+      "added": "2021-08-04T19:09",
+      "address": "Jack Speare Park",
+      "date": "2021-07-31T08:20",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Taringa Rovers Soccer Club",
+      "suburb": "Indooroopilly",
+      "timetext": "8.20am - 9.40am"
     },
     {
       "added": "2021-08-02T21:51",
@@ -1945,6 +1975,16 @@ Generated hotspotbot app
       "timetext": "11.40am - 12.20pm"
     },
     {
+      "added": "2021-08-04T19:12",
+      "address": "Shop G56, Toowong Village Shopping Centre",
+      "date": "2021-07-30T12:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Coles",
+      "suburb": "Toowong",
+      "timetext": "12pm - 12.20pm"
+    },
+    {
       "added": "2021-08-03T15:34",
       "address": "Shop 88 Sunnybank Plaza, 358 Mains Rd",
       "date": "2021-07-30T12:00",
@@ -2203,6 +2243,16 @@ Generated hotspotbot app
       "location": "Court 22 - Western Districts Netball Association,",
       "suburb": "Graceville",
       "timetext": "9.45am - 11.30am"
+    },
+    {
+      "added": "2021-08-04T19:12",
+      "address": "1036 Moggill Road",
+      "date": "2021-07-31T10:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Kenmore Holy Spirit Anglican Church – Memorial Service",
+      "suburb": "Kenmore",
+      "timetext": "10am - 11.30am"
     },
     {
       "added": "2021-08-02T21:50",
@@ -2795,6 +2845,16 @@ Generated hotspotbot app
       "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
       "suburb": "Toowong",
       "timetext": "8.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-04T19:09",
+      "address": "9 Sherwood Road",
+      "date": "2021-07-30T11:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Toowong Village Shopping Centre (including car park)",
+      "suburb": "Toowong",
+      "timetext": "11.15am - 12.30pm"
     },
     {
       "added": "2021-08-03T15:37",
