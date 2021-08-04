@@ -2647,16 +2647,6 @@ Generated hotspotbot app
       "timetext": "8.20am - 8.30am"
     },
     {
-      "added": "2021-08-03T20:40",
-      "address": "10/621 Coronation Dr",
-      "date": "2021-07-30T08:30",
-      "datetext": "Friday 30 July 2021",
-      "lgas": "QLD21",
-      "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
-      "suburb": "Toowong",
-      "timetext": "8.30am - 11.40am"
-    },
-    {
       "added": "2021-08-03T15:37",
       "address": "179 Ann St",
       "date": "2021-07-30T08:30",
@@ -2665,6 +2655,16 @@ Generated hotspotbot app
       "location": "179 Ann St Parking",
       "suburb": "Brisbane City",
       "timetext": "8.30am - 8.40am"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "10/621 Coronation Dr",
+      "date": "2021-07-30T08:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
+      "suburb": "Toowong",
+      "timetext": "8.30am - 11.40am"
     },
     {
       "added": "2021-08-03T15:37",
@@ -2757,16 +2757,6 @@ Generated hotspotbot app
       "timetext": "10.01am - 11.10am"
     },
     {
-      "added": "2021-08-01T17:27",
-      "address": "78-80 Coonan St",
-      "date": "2021-07-31T10:40",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "McDonalds Indooroopilly",
-      "suburb": "Indooroopilly",
-      "timetext": "10.40am - 10.50am"
-    },
-    {
       "added": "2021-08-02T18:43",
       "address": "Shop 1/77 Sir Fred Schonell Dr",
       "date": "2021-07-31T10:40",
@@ -2775,6 +2765,16 @@ Generated hotspotbot app
       "location": "DJ Supercuts",
       "suburb": "St Lucia",
       "timetext": "10.40am - 11.15am"
+    },
+    {
+      "added": "2021-08-01T17:27",
+      "address": "78-80 Coonan St",
+      "date": "2021-07-31T10:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "10.40am - 10.50am"
     },
     {
       "added": "2021-08-04T09:32",
