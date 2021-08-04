@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-   - name: Set up Elixir
+    - name: Set up Elixir
       uses: erlef/setup-elixir@v1
       with:
         elixir-version: '1.12.0' # Define the elixir version [required]
