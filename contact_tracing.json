@@ -1,0 +1,2770 @@
+Compiling 1 file (.ex)
+Generated hotspotbot app
+{
+  "casual": [
+    {
+      "added": "2021-07-26T17:42",
+      "address": "1 Bowser Parade",
+      "date": "2021-07-22T10:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD21",
+      "location": "Sandgate Bakehouse",
+      "suburb": "Sandgate",
+      "timetext": "10am - 11am"
+    },
+    {
+      "added": "2021-07-30T00:36",
+      "address": "Gympie Rd",
+      "date": "2021-07-23T11:06",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "David Jones – Westfield Chermside",
+      "suburb": "Chermside",
+      "timetext": "11.06am - 11.13am"
+    },
+    {
+      "added": "2021-07-25T19:23",
+      "address": "Gympie Rd",
+      "date": "2021-07-23T12:00",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Little Sparrow Café – Westfield Chermside",
+      "suburb": "Chermside",
+      "timetext": "12pm - 1pm"
+    },
+    {
+      "added": "2021-07-26T17:42",
+      "address": "279 Tufnell Road",
+      "date": "2021-07-23T13:15",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Woolworths  - Banyo Retail Centre",
+      "suburb": "Banyo",
+      "timetext": "1.15pm - 2.15pm"
+    },
+    {
+      "added": "2021-07-29T11:47",
+      "address": "Q Super Centre, Cnr, Markeri & Bermuda Streets",
+      "date": "2021-07-23T13:40",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD63",
+      "location": "Q Super Centre Chempro Chemist",
+      "suburb": "Mermaid Waters",
+      "timetext": "1.40pm - 2pm"
+    },
+    {
+      "added": "2021-07-29T11:47",
+      "address": "Q Super Centre, Cnr Markeri and Bermuda Streets",
+      "date": "2021-07-23T13:45",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD63",
+      "location": "Goldsteins Bakery",
+      "suburb": "Mermaid Waters",
+      "timetext": "1.45pm - 2.05pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "Holy Family School Hall, 37 Ward Street",
+      "date": "2021-07-24T09:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "JKA Karate",
+      "suburb": "Indooroopilly",
+      "timetext": "9am - 10.30am"
+    },
+    {
+      "added": "2021-07-25T18:38",
+      "address": "Marine Parade",
+      "date": "2021-07-24T11:30",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Broadwater Parklands Playground",
+      "suburb": "Southport",
+      "timetext": "11.30am - 1.15pm"
+    },
+    {
+      "added": "2021-07-26T18:07",
+      "address": "2/32 Hooker Blvd",
+      "date": "2021-07-24T14:35",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Pacific Fresh Fruit market – Pacific Fair Shopping Centre",
+      "suburb": "Broadbeach Waters",
+      "timetext": "2.35pm - 3pm"
+    },
+    {
+      "added": "2021-07-26T14:11",
+      "address": "241 Brisbane Road",
+      "date": "2021-07-24T16:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Hope Energy Service Station",
+      "suburb": "Biggera Waters",
+      "timetext": "4pm - 4.25pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-26T09:57",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Otto Hirschfeld Building (Building 81)",
+      "suburb": "St Lucia",
+      "timetext": "9.57am - 10.30am"
+    },
+    {
+      "added": "2021-08-01T14:14",
+      "address": "120 Grandview Road",
+      "date": "2021-07-27T06:50",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Pullenvale Jabiru Before School Care – Pullenvale State School",
+      "suburb": "Pullenvale",
+      "timetext": "6.50am - 7am"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "Shop 2/144 Indooroopilly Road",
+      "date": "2021-07-27T08:15",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Night Owl Taringa",
+      "suburb": "Taringa",
+      "timetext": "8.15am - 8.30am"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-27T14:54",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Building 69, level 5",
+      "suburb": "St Lucia",
+      "timetext": "2.54pm - 6pm"
+    },
+    {
+      "added": "2021-07-31T15:28",
+      "address": "Wecker Rd",
+      "date": "2021-07-28T07:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Bunnings, Mount Gravatt",
+      "suburb": "Mount Gravatt",
+      "timetext": "7am - 7.35am"
+    },
+    {
+      "added": "2021-08-01T18:41",
+      "address": "120 Grandview Road",
+      "date": "2021-07-28T08:45",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Pullenvale State School – prep rooms area",
+      "suburb": "Pullenvale",
+      "timetext": "8.45am - 9am"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "10/620 Moggill Rd",
+      "date": "2021-07-28T09:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Market Organics Chapel Hill",
+      "suburb": "Chapel Hill",
+      "timetext": "9am - 9.15am"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-28T10:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Michie Building Level 2 (Building 9)",
+      "suburb": "St Lucia",
+      "timetext": "10am - 12.20pm"
+    },
+    {
+      "added": "2021-07-31T19:02",
+      "address": "Princess Alexandra Hospital, 37 Kent St",
+      "date": "2021-07-28T12:50",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Translational Research Institute, Ground Floor",
+      "suburb": "Woolloongabba",
+      "timetext": "12.50pm - 2.45pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-28T14:51",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Otto Hirschfeld Building Level 2 and 3 (Building 81)",
+      "suburb": "St Lucia",
+      "timetext": "2.51pm - 5pm"
+    },
+    {
+      "added": "2021-07-31T17:59",
+      "address": "Nicholas street, (Ipswich Mall) Including d’Arcy Doyle Place",
+      "date": "2021-07-29T08:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD74",
+      "location": "Nicholas Street Mall",
+      "suburb": "Ipswich",
+      "timetext": "8am - 10.30am"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "Shop 2/144 Indooroopilly Road",
+      "date": "2021-07-29T08:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Night Owl Taringa",
+      "suburb": "Taringa",
+      "timetext": "8.15am - 8.30am"
+    },
+    {
+      "added": "2021-07-31T17:23",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T08:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Female Toilets Level 2 near Forever New and Myer",
+      "suburb": "Indooroopilly",
+      "timetext": "8.45am - 8.50am"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "10/620 Moggill Rd",
+      "date": "2021-07-29T08:48",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Market Organics Chapel Hill",
+      "suburb": "Chapel Hill",
+      "timetext": "8.48am - 9.05am"
+    },
+    {
+      "added": "2021-08-01T16:16",
+      "address": "245 McCullough St",
+      "date": "2021-07-29T09:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Sunnybank Specialist Centre, Level 1",
+      "suburb": "Sunnybank",
+      "timetext": "9am - 12pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Road",
+      "date": "2021-07-29T10:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "School of Biomedical Sciences (Building 64 and 65)",
+      "suburb": "St Lucia",
+      "timetext": "10am - 5.30pm"
+    },
+    {
+      "added": "2021-07-31T17:23",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T10:50",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Female toilets near Rebel Store and JB Hifi Level 1",
+      "suburb": "Indooroopilly",
+      "timetext": "10.50am - 10.55am"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1 Airport Av",
+      "date": "2021-07-29T11:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Cairns Airport baggage carousel",
+      "suburb": "Cairns North",
+      "timetext": "11.15am - 11.45am"
+    },
+    {
+      "added": "2021-08-03T21:27",
+      "address": "Store 1-2, Level 1, 1/21 Mcleod St",
+      "date": "2021-07-29T12:10",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "JB HIFI, Cairns Central",
+      "suburb": "Cairns City",
+      "timetext": "12.10pm - 12.50pm"
+    },
+    {
+      "added": "2021-07-31T15:28",
+      "address": "Wecker Rd",
+      "date": "2021-07-29T12:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Bunnings, Mount Gravatt",
+      "suburb": "Mount Gravatt",
+      "timetext": "12.30pm - 1.05pm"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "201 Moggill Rd",
+      "date": "2021-07-29T12:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Pani Kebabs",
+      "suburb": "Taringa",
+      "timetext": "12.45pm - 1.05pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-29T12:52",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Sir William Macgregor Building (Building 64)",
+      "suburb": "St Lucia",
+      "timetext": "12.52pm - 2.20pm"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "Playhouse Parent and Childcare Centre, UQ St Lucia Campus",
+      "date": "2021-07-29T15:08",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "2-3/3-5 years classrooms and play area (Wallabies, Quokkas and Perenties)",
+      "suburb": "St Lucia",
+      "timetext": "3.08pm - 5.21pm"
+    },
+    {
+      "added": "2021-08-01T14:14",
+      "address": "120 Grandview Road",
+      "date": "2021-07-29T16:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Pullenvale Jabiru After School Care, Pullenvale State School",
+      "suburb": "Pullenvale",
+      "timetext": "4pm - 4.10pm"
+    },
+    {
+      "added": "2021-08-03T21:24",
+      "address": "Poolwood Rd",
+      "date": "2021-07-29T16:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Northern Beaches Swim School",
+      "suburb": "Kewarra Beach",
+      "timetext": "4.15pm - 5.15pm"
+    },
+    {
+      "added": "2021-08-01T14:14",
+      "address": "3198 Moggill Road",
+      "date": "2021-07-29T16:20",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Caltex",
+      "suburb": "Bellbowrie",
+      "timetext": "4.20pm - 4.25pm"
+    },
+    {
+      "added": "2021-08-01T20:22",
+      "address": "66 Harts Rd",
+      "date": "2021-07-29T19:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "St Peters Lutheran College – Debating event Room (other than those in room MSN3)",
+      "suburb": "Indooroopilly",
+      "timetext": "7.30pm - 8.30pm"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "Brisbane to Cairns",
+      "date": "2021-07-29T9:17",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Qantas flight QF708 (Casual contact unless contacted by a Public Health Official)",
+      "suburb": "Brisbane to Cairns",
+      "timetext": "9.17am - 11.15am"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Road",
+      "date": "2021-07-30T09:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "School of Biomedical Sciences (Building 64 and 65)",
+      "suburb": "St Lucia",
+      "timetext": "9am - 4pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-30T09:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Chancellor’s Place Bus stop",
+      "suburb": "St Lucia",
+      "timetext": "9.45am - 9.54am"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-30T09:54",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Michie Building Level 2 (Building 9)",
+      "suburb": "St Lucia",
+      "timetext": "9.54am - 12.20pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "UQ Union Complex, The University of Queensland, Campbell Place, off Union Road.",
+      "date": "2021-07-30T12:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Pizza Caffe",
+      "suburb": "St Lucia",
+      "timetext": "12pm - 1.15pm"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "10/620 Moggill Rd",
+      "date": "2021-07-30T12:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Market Organics Chapel Hill",
+      "suburb": "Chapel Hill",
+      "timetext": "12.20pm - 12.40pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-30T12:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Chancellor’s Place Bus stop",
+      "suburb": "St Lucia",
+      "timetext": "12.20pm - 12.30pm"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "240 Hawken Drive",
+      "date": "2021-07-30T13:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "IGA Marketplace",
+      "suburb": "St Lucia",
+      "timetext": "1.20pm - 1.22pm"
+    },
+    {
+      "added": "2021-08-01T17:26",
+      "address": "240 Hawken Drive",
+      "date": "2021-07-30T13:22",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "IGA Marketplace – Men’s bathroom",
+      "suburb": "St Lucia",
+      "timetext": "1.22pm - 1.30pm"
+    },
+    {
+      "added": "2021-08-03T20:52",
+      "address": "Level 1 - Indooroopilly Shopping centre. 322 Moggill Rd",
+      "date": "2021-07-30T15:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Newsagent Metro News on First",
+      "suburb": "Indooroopilly",
+      "timetext": "3.30pm - 3.35pm"
+    },
+    {
+      "added": "2021-08-03T10:05",
+      "address": "Toowong Village Shopping Centre, Shop K4, 9 Sherwood Road",
+      "date": "2021-07-30T15:50",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Merlo Coffee",
+      "suburb": "Toowong",
+      "timetext": "3.50pm - 4.12pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "120 Grandview Road",
+      "date": "2021-07-30T16:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Pullenvale Jabiru After School Care, Pullenvale State School",
+      "suburb": "Pullenvale",
+      "timetext": "4.30pm - 4.45pm"
+    },
+    {
+      "added": "2021-08-01T20:55",
+      "address": "Shop 53A, Kenmore Village Shopping Centre, Cnr Moggill and Brookfield Rd",
+      "date": "2021-07-30T19:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Pizza Capers Kenmore",
+      "suburb": "Kenmore",
+      "timetext": "7.15pm - 7.25pm"
+    },
+    {
+      "added": "2021-08-03T20:52",
+      "address": "10/621 Coronation Dr",
+      "date": "2021-07-30T8:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Female Toilet, 2nd Floor , 10/621 Coronation Dr Toowong",
+      "suburb": "Toowong",
+      "timetext": "8.30am - 11.30am"
+    },
+    {
+      "added": "2021-08-03T16:25",
+      "address": "152 Smith St Cnr, Kumbari Ave",
+      "date": "2021-07-30T9:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD63",
+      "location": "Ampol Foodary Southport",
+      "suburb": "Southport",
+      "timetext": "9.40am - 10am"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1 Spence St",
+      "date": "2021-07-31T08:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD272",
+      "location": "Blu Marlin Bistro, Pier Cairns",
+      "suburb": "Cairns City",
+      "timetext": "8am - 9am"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1 Spence St",
+      "date": "2021-07-31T08:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD272",
+      "location": "Reef Fleet Terminal Pier Cairns",
+      "suburb": "Cairns City",
+      "timetext": "8am - 9am"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "IGA Marketplace St Lucia, 240 Hawken Drive",
+      "date": "2021-07-31T09:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "DNA Expresso Bar (Patrons)",
+      "suburb": "St Lucia",
+      "timetext": "9am - 9.10am"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "Cable-stayed bridge in St Lucia",
+      "date": "2021-07-31T10:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Eleanor Schonell Bridge",
+      "suburb": "St Lucia",
+      "timetext": "10am - 11am"
+    },
+    {
+      "added": "2021-08-02T18:43",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-31T10:05",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "JB-HiFi",
+      "suburb": "Indooroopilly",
+      "timetext": "10.05am - 10.15am"
+    },
+    {
+      "added": "2021-08-02T18:43",
+      "address": "322 Moggill Road",
+      "date": "2021-07-31T11:27",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "11.27am - 12.50pm"
+    },
+    {
+      "added": "2021-08-02T18:43",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Izakaya Sushi",
+      "suburb": "Indooroopilly",
+      "timetext": "11.50am - 12.05pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "320 Adelaide Street",
+      "date": "2021-07-31T12:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Christie Spaces",
+      "suburb": "Brisbane City",
+      "timetext": "12.45pm - 1pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "Shop 3, 28 Hawken Street",
+      "date": "2021-07-31T13:15",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Liqourland Ironside (Patrons)",
+      "suburb": "St Lucia",
+      "timetext": "1.15pm - 1.20pm"
+    }
+  ],
+  "close": [
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-21T00:00",
+      "datetext": "Wednesday 21 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-21T00:00",
+      "datetext": "Wednesday 21 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-21T09:00",
+      "datetext": "Wednesday 21 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "9am - 10am"
+    },
+    {
+      "added": "2021-07-25T19:23",
+      "address": "1015 Sandgate Road",
+      "date": "2021-07-21T16:00",
+      "datetext": "Wednesday 21 July 2021",
+      "lgas": "QLD21",
+      "location": "Niku Ramen",
+      "suburb": "Nundah",
+      "timetext": "4pm - 5pm"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-21T17:00",
+      "datetext": "Wednesday 21 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "5pm - 6pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-22T00:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-22T00:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-22T09:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "9am - 10am"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-22T17:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "5pm - 6pm"
+    },
+    {
+      "added": "2021-07-25T12:11",
+      "address": "100 Buckland Rd",
+      "date": "2021-07-22T20:00",
+      "datetext": "Thursday 22 July 2021",
+      "lgas": "QLD21",
+      "location": "Prince of Wales Hotel",
+      "suburb": "Nundah",
+      "timetext": "8pm - 9pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-23T00:00",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-23T00:00",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-23T09:00",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "9am - 10am"
+    },
+    {
+      "added": "2021-07-25T19:23",
+      "address": "1283 Sandgate Rd",
+      "date": "2021-07-23T09:45",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Centrelink Nundah",
+      "suburb": "Nundah",
+      "timetext": "9.45am - 10am"
+    },
+    {
+      "added": "2021-07-25T19:23",
+      "address": "1231 Sandgate Rd",
+      "date": "2021-07-23T09:50",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Burger Urge",
+      "suburb": "Nundah",
+      "timetext": "9.50am - 10.30am"
+    },
+    {
+      "added": "2021-07-26T17:41",
+      "address": "18 Banfield St",
+      "date": "2021-07-23T10:37",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Centrelink Chermside",
+      "suburb": "Chermside",
+      "timetext": "10.37am - 10.54am"
+    },
+    {
+      "added": "2021-07-26T17:41",
+      "address": "18 Banfield St",
+      "date": "2021-07-23T11:22",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Centrelink Chermside",
+      "suburb": "Chermside",
+      "timetext": "11.22am - 12.07pm"
+    },
+    {
+      "added": "2021-07-25T18:37",
+      "address": "4 Woodlands Way",
+      "date": "2021-07-23T17:00",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD63",
+      "location": "Goodstart Early Learning Parkwood",
+      "suburb": "Parkwood",
+      "timetext": "5pm - 6pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-24T00:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-24T00:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-26T18:07",
+      "address": "2/32 Hooker Blvd",
+      "date": "2021-07-24T14:10",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Hakataya Ramen – FF-1, Pacific Fair Shopping Centre",
+      "suburb": "Broadbeach Waters",
+      "timetext": "2.10pm - 2.40pm"
+    },
+    {
+      "added": "2021-07-26T18:07",
+      "address": "2/32 Hooker Blvd",
+      "date": "2021-07-24T14:25",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Hero Sushi – Pacific Fair Shopping Centre",
+      "suburb": "Broadbeach Waters",
+      "timetext": "2.25pm - 2.45pm"
+    },
+    {
+      "added": "2021-07-26T18:07",
+      "address": "2/32 Hooker Blvd",
+      "date": "2021-07-24T14:30",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Pacific Fair Shopping Centre - Male Toilets – Ground Floor adjacent to Fresh Food Precinct.",
+      "suburb": "Broadbeach Waters",
+      "timetext": "2.30pm - 2.45pm"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "Sir William Macgregor Drive",
+      "date": "2021-07-24T15:50",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "Toilets between UQ Basketball and UQ Netball Courts",
+      "suburb": "St Lucia",
+      "timetext": "3.50pm - 5pm"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "Shop 2/224 Hawken Drive",
+      "date": "2021-07-24T17:13",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "Shalom Restaurant",
+      "suburb": "St Lucia",
+      "timetext": "5.13pm - 6.30pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-25T00:00",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-25T00:00",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "3/150 Blunder Rd",
+      "date": "2021-07-25T08:30",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Blunder Road Country Markets",
+      "suburb": "Oxley",
+      "timetext": "8.30am - 9.10am"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "146 Blunder Rd",
+      "date": "2021-07-25T08:55",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "ALDI Oxley",
+      "suburb": "Oxley",
+      "timetext": "8.55am - 9.25am"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "146 Blunder Rd",
+      "date": "2021-07-25T09:10",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Chemist Warehouse Oxley",
+      "suburb": "Oxley",
+      "timetext": "9.10am - 9.30am"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "School Central, Fig Tree Dr",
+      "date": "2021-07-25T10:44",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Royal Brisbane Hospital, UQ Health Science Building",
+      "suburb": "Herston",
+      "timetext": "10.44am - 1.30pm"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "Butterfield St",
+      "date": "2021-07-25T17:43",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "Royal Brisbane Hospital Dr James Mayne Building Level 3 Coronary Care Unit, Pod 1 Western section, and seats outside CCU",
+      "suburb": "Herston",
+      "timetext": "5.43pm - 6.10pm"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "Homemaker City, 12A Goggs Rd",
+      "date": "2021-07-25T18:20",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds - Jindalee",
+      "suburb": "Jindalee",
+      "timetext": "6.20pm - 6.55pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-26T00:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-26T00:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-26T00:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-26T00:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Outside School Hours Care, Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T19:08",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-26T09:57",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Otto Hirschfeld Building. Level 2, Lab room 210",
+      "suburb": "St Lucia",
+      "timetext": "9.57am - 10.30am"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "12 Wongabel St",
+      "date": "2021-07-26T15:00",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Lees & Henschell Optometry Kenmore",
+      "suburb": "Kenmore",
+      "timetext": "3pm - 3.30pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Outside School Hours Care, Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T19:08",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-27T07:28",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Modwest Building",
+      "suburb": "St Lucia",
+      "timetext": "7.28am - 11.40am"
+    },
+    {
+      "added": "2021-07-30T16:29",
+      "address": "111 Ward St",
+      "date": "2021-07-27T08:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly State High School",
+      "suburb": "Indooroopilly",
+      "timetext": "8am - 10am"
+    },
+    {
+      "added": "2021-08-03T19:08",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-27T11:44",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Duhig North Building (Library)",
+      "suburb": "St Lucia",
+      "timetext": "11.44am - 2.45am"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-27T14:54",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Building 69, rooms 511, 512, 513",
+      "suburb": "St Lucia",
+      "timetext": "2.54pm - 6pm"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "2/28 Hawken Dr",
+      "date": "2021-07-27T15:40",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Briki Espresso & Gelati Bar St Lucia",
+      "suburb": "St Lucia",
+      "timetext": "3.40pm - 4pm"
+    },
+    {
+      "added": "2021-08-01T18:02",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-27T18:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Abel Smith Lecture Theatre Building 23",
+      "suburb": "St Lucia",
+      "timetext": "6pm - 7pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Holy Family School Hall, 37 Ward Street",
+      "date": "2021-07-27T18:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "JKA Karate",
+      "suburb": "Indooroopilly",
+      "timetext": "6pm - 7.40pm"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "380 Upper Roma St",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane City Backpackers HQ",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 1am"
+    },
+    {
+      "added": "2021-07-28T18:44",
+      "address": "390 Upper Roma St",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Joe’s Place Backpackers",
+      "suburb": "Brisbane City",
+      "timetext": "12am - 1am"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Outside School Hours Care, Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T19:08",
+      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
+      "date": "2021-07-28T07:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Modwest Building",
+      "suburb": "St Lucia",
+      "timetext": "7.30am - 10am"
+    },
+    {
+      "added": "2021-07-31T17:03",
+      "address": "111 Ward St",
+      "date": "2021-07-28T08:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly State High School – including after school activities",
+      "suburb": "Indooroopilly",
+      "timetext": "8am - 4.30pm"
+    },
+    {
+      "added": "2021-08-02T15:09",
+      "address": "Brisbane to Rockhampton",
+      "date": "2021-07-28T08:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "",
+      "location": "Qantas Flight QF2362",
+      "suburb": "Brisbane to Rockhampton",
+      "timetext": "8.30am - 9.50am"
+    },
+    {
+      "added": "2021-08-01T14:09",
+      "address": "3366 Moggill Road",
+      "date": "2021-07-28T09:10",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Coles Moggill Shopping Village",
+      "suburb": "Moggill",
+      "timetext": "9.10am - 9.30am"
+    },
+    {
+      "added": "2021-08-02T11:05",
+      "address": "3366 Moggill Road",
+      "date": "2021-07-28T09:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Moggill Village News / Australia Post Bellbowrie",
+      "suburb": "Moggill",
+      "timetext": "9.30am - 9.45am"
+    },
+    {
+      "added": "2021-08-02T13:59",
+      "address": "81 Canoona Rd",
+      "date": "2021-07-28T09:39",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD289",
+      "location": "Southern departure female toilet (located in security check in area) - Rockhampton Airport",
+      "suburb": "West Rockhampton",
+      "timetext": "9.39am - 10am"
+    },
+    {
+      "added": "2021-08-02T17:22",
+      "address": "10 McLaughlin Street",
+      "date": "2021-07-28T10:17",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD289",
+      "location": "Caltex Gracemere",
+      "suburb": "Gracemere",
+      "timetext": "10.17am - 10.19am"
+    },
+    {
+      "added": "2021-08-03T17:21",
+      "address": "Worksite & Workers Camp onsite at Rookwood Weir",
+      "date": "2021-07-28T11:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "",
+      "location": "Rookwood Weir",
+      "suburb": "Rookwood Weir",
+      "timetext": "11.30am - 11.59pm"
+    },
+    {
+      "added": "2021-07-31T19:01",
+      "address": "UQ Lakes Bus Station to PA Hospital Bus Station",
+      "date": "2021-07-28T12:40",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "",
+      "location": "Bus Route 66, departed at 1240",
+      "suburb": "Bus Route 66",
+      "timetext": "12.40pm - 1.05pm"
+    },
+    {
+      "added": "2021-08-01T12:37",
+      "address": "PA Hospital Bus Station to UQ Lakes Bus Station",
+      "date": "2021-07-28T14:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "",
+      "location": "Bus Route 28, departed at approx. 1430",
+      "suburb": "Bus Route 28",
+      "timetext": "2.30pm - 2.55pm"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "Gregory Tce at Torrington street, stop 5",
+      "date": "2021-07-28T15:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Bus stop waiting area Gregory Tce at Torrington street, stop 5, Spring Hill",
+      "suburb": "Spring Hill",
+      "timetext": "3pm - 3.18pm"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "Gregory Tce at Torrington street, stop 5, Spring Hill to Swann Rd at Ironside School, stop 23/24, St Lucia",
+      "date": "2021-07-28T15:18",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "",
+      "location": "Bus route 411",
+      "suburb": "Bus route 411",
+      "timetext": "3.18pm - 4pm"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "53 Ward St",
+      "date": "2021-07-28T17:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Australian Girls’ Choir practise - Brigidine College",
+      "suburb": "Indooroopilly",
+      "timetext": "5pm - 6pm"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "Shop G44/9 Sherwood Rd",
+      "date": "2021-07-28T17:15",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Grill'd Toowoong",
+      "suburb": "Toowong",
+      "timetext": "5.15pm - 6pm"
+    },
+    {
+      "added": "2021-07-31T15:45",
+      "address": "66 Ernest St",
+      "date": "2021-07-28T19:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Southbank TAFE F Block Level 5 Rm 5015",
+      "suburb": "South Brisbane",
+      "timetext": "7pm - 9pm"
+    },
+    {
+      "added": "2021-08-03T17:21",
+      "address": "Worksite & Workers Camp onsite at Rookwood Weir",
+      "date": "2021-07-29T00:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Rookwood Weir",
+      "suburb": "Rookwood Weir",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-29T00:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-29T00:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Outside School Hours Care, Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-01T14:09",
+      "address": "45 Kedron Brook Road",
+      "date": "2021-07-29T06:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "AcuHealth acupuncture clinic",
+      "suburb": "Wilston",
+      "timetext": "6.45am - 8.10am"
+    },
+    {
+      "added": "2021-07-31T17:03",
+      "address": "111 Ward St",
+      "date": "2021-07-29T08:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly State High School",
+      "suburb": "Indooroopilly",
+      "timetext": "8am - 3.30pm"
+    },
+    {
+      "added": "2021-07-31T17:58",
+      "address": "Nicholas Street Mall, (Ipswich Mall)",
+      "date": "2021-07-29T08:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD74",
+      "location": "Ipswich CBD Community Vaccination Clinic",
+      "suburb": "Ipswich",
+      "timetext": "8am - 10.20am"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-29T08:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School (Boys) including extracurricular activities",
+      "suburb": "Spring Hill",
+      "timetext": "8am - 3pm"
+    },
+    {
+      "added": "2021-08-01T16:14",
+      "address": "3/12 Browning St",
+      "date": "2021-07-29T08:10",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Family Dental Clinic – West End",
+      "suburb": "South Brisbane",
+      "timetext": "8.10am - 9am"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T08:50",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Myer",
+      "suburb": "Indooroopilly",
+      "timetext": "8.50am - 9.30am"
+    },
+    {
+      "added": "2021-08-02T18:55",
+      "address": "Level 1, Sunnybank Specialist Centre, 243 McCullough St",
+      "date": "2021-07-29T09:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "K & L Endo",
+      "suburb": "Sunnybank",
+      "timetext": "9am - 12pm"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T09:20",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Seed Heritage",
+      "suburb": "Indooroopilly",
+      "timetext": "9.20am - 9.35am"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T09:25",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Target",
+      "suburb": "Indooroopilly",
+      "timetext": "9.25am - 9.50am"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T09:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "H and M",
+      "suburb": "Indooroopilly",
+      "timetext": "9.45am - 10.10am"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T10:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Target",
+      "suburb": "Indooroopilly",
+      "timetext": "10am - 10.15am"
+    },
+    {
+      "added": "2021-08-02T11:59",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T10:10",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Kmart",
+      "suburb": "Indooroopilly",
+      "timetext": "10.10am - 10.45am"
+    },
+    {
+      "added": "2021-07-31T17:25",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T10:35",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Stacks Discounts Store (next to Daiso near Aldi Lvl1)",
+      "suburb": "Indooroopilly",
+      "timetext": "10.35am - 10.50am"
+    },
+    {
+      "added": "2021-07-31T17:25",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-29T10:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Country Road",
+      "suburb": "Indooroopilly",
+      "timetext": "10.45am - 11am"
+    },
+    {
+      "added": "2021-07-31T15:27",
+      "address": "899 Stanley St East",
+      "date": "2021-07-29T11:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Highgrove Bathrooms",
+      "suburb": "East Brisbane",
+      "timetext": "11am - 11.25am"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Building 94, The University of Queensland, Slip Road",
+      "date": "2021-07-29T11:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Darwin’s Café",
+      "suburb": "St Lucia",
+      "timetext": "11am - 11.45am"
+    },
+    {
+      "added": "2021-08-01T17:25",
+      "address": "Shop 4B 19/23 Cribb St",
+      "date": "2021-07-29T11:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Esquire Male Grooming Barber",
+      "suburb": "Milton",
+      "timetext": "11.45am - 12.30pm"
+    },
+    {
+      "added": "2021-07-31T19:01",
+      "address": "4/281 Station Rd",
+      "date": "2021-07-29T11:50",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Andonis Café & Bar",
+      "suburb": "Yeerongpilly",
+      "timetext": "11.50am - 1.45pm"
+    },
+    {
+      "added": "2021-08-01T16:14",
+      "address": "342 McCullough St",
+      "date": "2021-07-29T12:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "That Viet Place",
+      "suburb": "Sunnybank",
+      "timetext": "12pm - 12.40pm"
+    },
+    {
+      "added": "2021-08-01T16:14",
+      "address": "49/342 McCullough St",
+      "date": "2021-07-29T12:25",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Southside Bistro",
+      "suburb": "Sunnybank",
+      "timetext": "12.25pm - 12.55pm"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "Cnr Gatton St &, Lake St",
+      "date": "2021-07-29T12:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Bayleaf Balinese Restaurant",
+      "suburb": "Cairns City",
+      "timetext": "12.45pm - 2.15pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Building 94, The University of Queensland, Slip Road",
+      "date": "2021-07-29T14:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Darwin’s Café",
+      "suburb": "St Lucia",
+      "timetext": "2pm - 3.15pm"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "Corner Goggs and Sinnamon Rds",
+      "date": "2021-07-29T14:55",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Coles Jindalee",
+      "suburb": "Jindalee",
+      "timetext": "2.55pm - 3.15pm"
+    },
+    {
+      "added": "2021-07-31T14:41",
+      "address": "4/168 Sinnamon Rd",
+      "date": "2021-07-29T15:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Terry White Chemmart Jindalee",
+      "suburb": "Jindalee",
+      "timetext": "3pm - 3.20pm"
+    },
+    {
+      "added": "2021-08-01T20:22",
+      "address": "Gregory Tce at Torrington street, stop 5",
+      "date": "2021-07-29T15:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Bus stop waiting area Gregory Tce at Torrington street, stop 5, Spring Hill",
+      "suburb": "Spring Hill",
+      "timetext": "3pm - 3.15pm"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "Playhouse Parent and Childcare Centre, UQ St Lucia Campus",
+      "date": "2021-07-29T15:08",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "OHSC classrooms and play area",
+      "suburb": "St Lucia",
+      "timetext": "3.08pm - 5.21pm"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "Gregory Tce at Torrington street, stop 5, Spring Hill to Swann Rd at Ironside School, stop 23/24, St Lucia",
+      "date": "2021-07-29T15:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Bus route 411",
+      "suburb": "Bus route 411",
+      "timetext": "3.15pm - 3.51pm"
+    },
+    {
+      "added": "2021-08-01T17:25",
+      "address": "8/48-52 Sherwood Rd",
+      "date": "2021-07-29T15:55",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Ethos Orthodontics Toowong",
+      "suburb": "Toowong",
+      "timetext": "3.55pm - 4.30pm"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "1-7 Maritime Way,",
+      "date": "2021-07-29T16:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Bluewater Village Early Learning",
+      "suburb": "Trinity Beach",
+      "timetext": "4pm - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T19:08",
+      "address": "1/30 Station Road",
+      "date": "2021-07-29T16:20",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Sono School of Music – Station Rd Studio",
+      "suburb": "Indooroopilly",
+      "timetext": "4.20pm - 5pm"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "Faulkner Park, Waratah Ave",
+      "date": "2021-07-29T16:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Court 1 - Western Districts Netball Association",
+      "suburb": "Graceville",
+      "timetext": "4.30pm - 5.40pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Holy Family School Hall, 37 Ward Street",
+      "date": "2021-07-29T18:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "JKA Karate",
+      "suburb": "Indooroopilly",
+      "timetext": "6pm - 7.40pm"
+    },
+    {
+      "added": "2021-08-02T17:51",
+      "address": "Shop 2, Indooroopilly Junction, 100 Coonan St",
+      "date": "2021-07-29T18:12",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Sushi Train Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "6.12pm - 7.15pm"
+    },
+    {
+      "added": "2021-08-03T18:42",
+      "address": "66 Harts Rd",
+      "date": "2021-07-29T19:20",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "St Peters Lutheran College – Debating event Room MSN3",
+      "suburb": "Indooroopilly",
+      "timetext": "7.20pm - 8.30pm"
+    },
+    {
+      "added": "2021-08-02T13:59",
+      "address": "Worksite & Workers Camp onsite at Rookwood Weir",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "",
+      "location": "Rookwood Weir",
+      "suburb": "Rookwood Weir",
+      "timetext": "12am - 4pm"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1-7 Maritime Way",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD272",
+      "location": "Bluewater Village Early Learning",
+      "suburb": "Trinity Beach",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Outside School Hours Care, Ironside State School",
+      "suburb": "St Lucia",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-01T20:22",
+      "address": "24 Gregory Terrace",
+      "date": "2021-07-30T06:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Grammar School (Boys) including extracurricular activities",
+      "suburb": "Spring Hill",
+      "timetext": "6.30am - 3pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "245 McCullough St",
+      "date": "2021-07-30T07:55",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Endoscopy Suite and Recovery area, Sunnybank Private Hospital",
+      "suburb": "Sunnybank",
+      "timetext": "7.55am - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "70 Gregory Terrace",
+      "date": "2021-07-30T08:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Girls Grammar School – All of campus Including Open Day Event and Extracurricular activities",
+      "suburb": "Spring Hill",
+      "timetext": "8am - 8.30pm"
+    },
+    {
+      "added": "2021-08-01T17:25",
+      "address": "339 Coronation Dr",
+      "date": "2021-07-30T08:10",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Studio 99 Fitness Centre",
+      "suburb": "Milton",
+      "timetext": "8.10am - 9am"
+    },
+    {
+      "added": "2021-08-03T18:23",
+      "address": "339 Coronation Dr",
+      "date": "2021-07-30T08:10",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "John Oxley Centre – Male toilets ground level -North tower",
+      "suburb": "Milton",
+      "timetext": "8.10am - 9am"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "2nd Floor, 10/621 Coronation Dr",
+      "date": "2021-07-30T08:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Hall Property Solution Unit",
+      "suburb": "Toowong",
+      "timetext": "8.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "Ground level, 1/21 Mcleod St",
+      "date": "2021-07-30T08:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD272",
+      "location": "1300SMILES Dental Practice, Cairns Central Shopping Centre: Waiting room and reception area",
+      "suburb": "Cairns City",
+      "timetext": "8.40am - 10.30am"
+    },
+    {
+      "added": "2021-08-03T18:23",
+      "address": "6 Leda Dr",
+      "date": "2021-07-30T08:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD89",
+      "location": "Ampol Foodary (previously Caltex Starmart), Hyperdome",
+      "suburb": "Shailer Park",
+      "timetext": "8.45am - 9.15am"
+    },
+    {
+      "added": "2021-07-31T19:01",
+      "address": "Sir Fred Schonell Dve, St Lucia to UQ Chancellor’s Place, University of Queensland",
+      "date": "2021-07-30T09:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "",
+      "location": "Bus Route 412, departed at 0945",
+      "suburb": "Bus Route 412",
+      "timetext": "9.45am - 10.05am"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "Shop 86 Sunnybank Plaza, 358 Mains Rd",
+      "date": "2021-07-30T11:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Udonya Tokoton Restaurant",
+      "suburb": "Sunnybank",
+      "timetext": "11.40am - 12.20pm"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "Shop 88 Sunnybank Plaza, 358 Mains Rd",
+      "date": "2021-07-30T12:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Formosa Asian Market",
+      "suburb": "Sunnybank",
+      "timetext": "12pm - 12.40pm"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "111 Constance St",
+      "date": "2021-07-30T12:12",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Oche Fortitude Valley, 1st floor & 1st floor toilet",
+      "suburb": "Fortitude Valley",
+      "timetext": "12.12pm - 3.30pm"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "Sunnybank Plaza, 358 Mains Rd",
+      "date": "2021-07-30T12:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Female toilet near Coles, Sunnybank Plaza",
+      "suburb": "Sunnybank",
+      "timetext": "12.15pm - 12.30pm"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "Sunnybank Plaza, 358 Mains Rd",
+      "date": "2021-07-30T12:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Coles, Sunnybank Plaza",
+      "suburb": "Sunnybank",
+      "timetext": "12.20pm - 1.15pm"
+    },
+    {
+      "added": "2021-07-31T19:01",
+      "address": "UQ Chancellor’s Place to Stop 19 Sir Fred Schonell Dve, St Lucia",
+      "date": "2021-07-30T12:25",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "",
+      "location": "Bus Route 412, departed at approx. 1225",
+      "suburb": "Bus Route 412",
+      "timetext": "12.25pm - 12.55pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Sungold Arcade, 153C Scarborough St",
+      "date": "2021-07-30T12:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD63",
+      "location": "Kua Thai Isan Traditional Thai Restaurant",
+      "suburb": "Southport",
+      "timetext": "12.30pm - 2pm"
+    },
+    {
+      "added": "2021-08-01T16:14",
+      "address": "138 McCullough St",
+      "date": "2021-07-30T12:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Pacific Petroleum",
+      "suburb": "Sunnybank",
+      "timetext": "12.40pm - 1.05pm"
+    },
+    {
+      "added": "2021-08-01T17:25",
+      "address": "8/225 Hawken Drive",
+      "date": "2021-07-30T13:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Saigon Yummy",
+      "suburb": "St Lucia",
+      "timetext": "1.15pm - 1.55pm"
+    },
+    {
+      "added": "2021-08-01T17:25",
+      "address": "36 Jephson St",
+      "date": "2021-07-30T14:55",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Bupa Dental Toowong",
+      "suburb": "Toowong",
+      "timetext": "2.55pm - 3.25pm"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "Gregory Tce at Torrington street, stop 5",
+      "date": "2021-07-30T15:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Bus stop waiting area Gregory Tce at Torrington street, stop 5, Spring Hill",
+      "suburb": "Spring Hill",
+      "timetext": "3pm - 3.26pm"
+    },
+    {
+      "added": "2021-08-02T18:41",
+      "address": "9/39 Campbell St",
+      "date": "2021-07-30T15:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Sharee Skye Dance Classes",
+      "suburb": "Toowong",
+      "timetext": "3pm - 5.15pm"
+    },
+    {
+      "added": "2021-08-03T12:09",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-30T15:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Georgie Parkes Swim School",
+      "suburb": "St Lucia",
+      "timetext": "3pm - 3.45pm"
+    },
+    {
+      "added": "2021-08-01T15:36",
+      "address": "Gregory Tce at Torrington street, stop 5, Spring Hill to Swann Rd at Ironside School, stop 23/24, St Lucia",
+      "date": "2021-07-30T15:26",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "",
+      "location": "Bus route 411",
+      "suburb": "Bus route 411",
+      "timetext": "3.26pm - 3.57pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "Level 2 - Indooroopilly Shopping centre. 322 Moggill Rd",
+      "date": "2021-07-30T15:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Jacqui E",
+      "suburb": "Indooroopilly",
+      "timetext": "3.30pm - 3.50pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "Level 1 - Indooroopilly Shopping centre. 322 Moggill Rd",
+      "date": "2021-07-30T15:50",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Refreshed Massage",
+      "suburb": "Indooroopilly",
+      "timetext": "3.50pm - 4.45pm"
+    },
+    {
+      "added": "2021-08-03T10:03",
+      "address": "Toowong Village Shopping Centre, Shop L28,  9 Sherwood Road",
+      "date": "2021-07-30T16:05",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Kmart",
+      "suburb": "Toowong",
+      "timetext": "4.05pm - 5.05pm"
+    },
+    {
+      "added": "2021-08-03T12:09",
+      "address": "2 Hawken Drive",
+      "date": "2021-07-30T16:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Georgie Parkes Swim School",
+      "suburb": "St Lucia",
+      "timetext": "4.15pm - 4.45pm"
+    },
+    {
+      "added": "2021-08-03T18:23",
+      "address": "3/110 Logan Rd",
+      "date": "2021-07-30T17:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Mirchh Masala Impex, Grocery Store and Restaurant",
+      "suburb": "Woolloongabba",
+      "timetext": "5pm - 5.45pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "Rooftop, 209 Brunswick St",
+      "date": "2021-07-30T18:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Cielo Rooftop Bar",
+      "suburb": "Fortitude Valley",
+      "timetext": "6pm - 10pm"
+    },
+    {
+      "added": "2021-08-02T13:59",
+      "address": "81 Canoona Rd",
+      "date": "2021-07-30T18:24",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD289",
+      "location": "Southern departure female toilet (located in security check in area) - Rockhampton Airport",
+      "suburb": "West Rockhampton",
+      "timetext": "6.24pm - 8.23pm"
+    },
+    {
+      "added": "2021-08-02T15:09",
+      "address": "Rockhampton to Brisbane",
+      "date": "2021-07-30T18:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "",
+      "location": "Qantas Flight QF2365",
+      "suburb": "Rockhampton to Brisbane",
+      "timetext": "6.40pm - 7.50pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "199 Ipswich Rd",
+      "date": "2021-07-30T19:29",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Princess Alexandra Hospital, Emergency Department waiting room",
+      "suburb": "Woolloongabba",
+      "timetext": "7.29pm - 8.35pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "8 McCaskill Road",
+      "date": "2021-07-30T20:15",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "IGA Pullenvale",
+      "suburb": "Pullenvale",
+      "timetext": "8.15pm - 8.35pm"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "11 Ruthven St",
+      "date": "2021-07-31T08:15",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Japanese Language Supplementary School, held at St Aidan’s Anglican Girls’ School",
+      "suburb": "Corinda",
+      "timetext": "8.15am - 1pm"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "Cairns Marlin Marina, 1 Spence St",
+      "date": "2021-07-31T09:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD272",
+      "location": "Fitzroy Island Adventures, Ferry to Fitzroy Island",
+      "suburb": "Cairns City",
+      "timetext": "9am - 10am"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "Faulkner Park, Waratah Ave",
+      "date": "2021-07-31T09:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Court 22 - Western Districts Netball Association,",
+      "suburb": "Graceville",
+      "timetext": "9.45am - 11.30am"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "Sir William MacGregor Drive",
+      "date": "2021-07-31T10:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Playground St Lucia",
+      "suburb": "St Lucia",
+      "timetext": "10am - 11am"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "281 Montague Rd",
+      "date": "2021-07-31T10:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "TOMRA recycling centre west end",
+      "suburb": "West End",
+      "timetext": "10am - 11.05am"
+    },
+    {
+      "added": "2021-08-02T18:41",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-31T10:16",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Mr Toys Toyworld",
+      "suburb": "Indooroopilly",
+      "timetext": "10.16am - 10.26am"
+    },
+    {
+      "added": "2021-08-02T18:41",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-31T10:28",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Coles",
+      "suburb": "Indooroopilly",
+      "timetext": "10.28am - 11.10am"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "31 Hardgrave Rd",
+      "date": "2021-07-31T11:19",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Mick's Nuts",
+      "suburb": "West End",
+      "timetext": "11.19am - 11.30am"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "26 Hawken Dr",
+      "date": "2021-07-31T11:20",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "St Lucia Pharmacy",
+      "suburb": "St Lucia",
+      "timetext": "11.20am - 11.30am"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
+      "date": "2021-07-31T11:25",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Hanaromart",
+      "suburb": "Indooroopilly",
+      "timetext": "11.25am - 11.50am"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "West End Markets",
+      "date": "2021-07-31T11:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Coffee mentality",
+      "suburb": "West End",
+      "timetext": "11.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
+      "date": "2021-07-31T11:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Izakaya Sushu",
+      "suburb": "Indooroopilly",
+      "timetext": "11.40am - 12.05pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "West End Markets",
+      "date": "2021-07-31T11:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Fresh berries direct",
+      "suburb": "West End",
+      "timetext": "11.40am - 11.50am"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "82 Hyde Rd",
+      "date": "2021-07-31T11:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "M.Y. Roasting Café",
+      "suburb": "Yeronga",
+      "timetext": "11.45am - 1.15pm"
+    },
+    {
+      "added": "2021-08-02T21:50",
+      "address": "78-80 Coonan Street",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "11.50am - 12pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "West End Markets",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Charlie fruit and Veg",
+      "suburb": "West End",
+      "timetext": "11.50am - 11.55am"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "Level 1, Indooroopilly Shopping centre, 322 Moggill Road",
+      "date": "2021-07-31T11:55",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Kmart",
+      "suburb": "Indooroopilly",
+      "timetext": "11.55am - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "West End Markets",
+      "date": "2021-07-31T11:55",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Trade Winds Seafood Runaway Bay",
+      "suburb": "West End",
+      "timetext": "11.55am - 12.05pm"
+    },
+    {
+      "added": "2021-08-03T15:34",
+      "address": "Indooroopilly Shopping Centre",
+      "date": "2021-07-31T11:57",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "ALDI",
+      "suburb": "Indooroopilly",
+      "timetext": "11.57am - 12.38pm"
+    },
+    {
+      "added": "2021-08-03T13:31",
+      "address": "Level 4, Indooroopilly Shopping centre, 322 Moggill Road",
+      "date": "2021-07-31T12:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "BCC Library",
+      "suburb": "Indooroopilly",
+      "timetext": "12pm - 12.50pm"
+    },
+    {
+      "added": "2021-08-02T18:41",
+      "address": "Indooroopilly shopping centre",
+      "date": "2021-07-31T12:05",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Kmart",
+      "suburb": "Indooroopilly",
+      "timetext": "12.05pm - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "West End Markets",
+      "date": "2021-07-31T12:05",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Juicy Choice",
+      "suburb": "West End",
+      "timetext": "12.05pm - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T21:23",
+      "address": "Fitzroy Island Jetty",
+      "date": "2021-07-31T15:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD272",
+      "location": "Fitzroy Island Adventures, Ferry to Cairns",
+      "suburb": "Fitzroy Island",
+      "timetext": "3.45pm - 4.30pm"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "12-14 Deauville Close",
+      "date": "2021-08-01T10:00",
+      "datetext": "Sunday 1 August 2021",
+      "lgas": "QLD272",
+      "location": "Hidden Café",
+      "suburb": "Yorkeys Knob",
+      "timetext": "10am - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1-7 Maritime Way",
+      "date": "2021-08-02T00:00",
+      "datetext": "Monday 2 August 2021",
+      "lgas": "QLD272",
+      "location": "Bluewater Village Early Learning",
+      "suburb": "Trinity Beach",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T20:32",
+      "address": "26 Hawken Dr",
+      "date": "2021-08-02T08:13",
+      "datetext": "Monday 2 August 2021",
+      "lgas": "QLD21",
+      "location": "Hawken Drive Pharmacy",
+      "suburb": "St Lucia",
+      "timetext": "8.13am - 8.20am"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1-7 Maritime Way",
+      "date": "2021-08-03T00:00",
+      "datetext": "Tuesday 3 August 2021",
+      "lgas": "QLD272",
+      "location": "Bluewater Village Early Learning",
+      "suburb": "Trinity Beach",
+      "timetext": "12am - 11.59pm"
+    }
+  ],
+  "low_risk": [
+    {
+      "added": "2021-07-25T19:23",
+      "address": "Gympie Rd",
+      "date": "2021-07-23T10:30",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD21",
+      "location": "Westfield Chermside",
+      "suburb": "Chermside",
+      "timetext": "10.30am - 1pm"
+    },
+    {
+      "added": "2021-07-28T18:45",
+      "address": "Cnr Markeri & Bermuda Sts, Mermaid Waters",
+      "date": "2021-07-23T11:45",
+      "datetext": "Friday 23 July 2021",
+      "lgas": "QLD63",
+      "location": "Q Super Shopping Centre",
+      "suburb": "Mermaid Waters",
+      "timetext": "11.45am - 2pm"
+    },
+    {
+      "added": "2021-07-26T14:12",
+      "address": "1-29 Millaroo Drive",
+      "date": "2021-07-24T09:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Westfield Helensvale Shopping Centre",
+      "suburb": "Helensvale",
+      "timetext": "9am - 10.45am"
+    },
+    {
+      "added": "2021-07-26T18:06",
+      "address": "2/32 Hooker Blvd",
+      "date": "2021-07-24T14:00",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD63",
+      "location": "Pacific Fair Shopping Centre",
+      "suburb": "Broadbeach Waters",
+      "timetext": "2pm - 3pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "Sir William Macgregor Drive",
+      "date": "2021-07-24T15:50",
+      "datetext": "Saturday 24 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Basketball Courts (Between the tennis courts and Athletic track).",
+      "suburb": "St Lucia",
+      "timetext": "3.50pm - 5pm"
+    },
+    {
+      "added": "2021-08-01T18:05",
+      "address": "Butterfield St",
+      "date": "2021-07-25T17:41",
+      "datetext": "Sunday 25 July 2021",
+      "lgas": "QLD21",
+      "location": "RBWH Ground Floor main atrium and entrance",
+      "suburb": "Herston",
+      "timetext": "5.41pm - 6.10pm"
+    },
+    {
+      "added": "2021-08-02T17:52",
+      "address": "841 Moggill Road",
+      "date": "2021-07-26T15:40",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds Kenmore Drive Through",
+      "suburb": "Kenmore",
+      "timetext": "3.40pm - 3.45pm"
+    },
+    {
+      "added": "2021-07-28T18:45",
+      "address": "Butterfield Street",
+      "date": "2021-07-26T21:45",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Emergency Department waiting area - Royal Brisbane and Women’s Hospital",
+      "suburb": "Herston",
+      "timetext": "9.45pm - 10.03pm"
+    },
+    {
+      "added": "2021-07-28T18:45",
+      "address": "Butterfield Street",
+      "date": "2021-07-26T22:23",
+      "datetext": "Monday 26 July 2021",
+      "lgas": "QLD21",
+      "location": "Northern Ring Road Taxi rank (outside emergency department) - Royal Brisbane and Women’s Hospital",
+      "suburb": "Herston",
+      "timetext": "10.23pm - 10.58pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "37 Ward Street",
+      "date": "2021-07-27T00:00",
+      "datetext": "Tuesday 27 July 2021",
+      "lgas": "QLD21",
+      "location": "Holy Family School Hall",
+      "suburb": "Indooroopilly",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "37 Ward Street",
+      "date": "2021-07-28T00:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Holy Family School Hall",
+      "suburb": "Indooroopilly",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-02T14:00",
+      "address": "81 Canoona Rd",
+      "date": "2021-07-28T09:38",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD289",
+      "location": "Rockhampton Airport",
+      "suburb": "West Rockhampton",
+      "timetext": "9.38am - 9.55am"
+    },
+    {
+      "added": "2021-07-31T14:42",
+      "address": "University of Queensland",
+      "date": "2021-07-28T12:15",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Lakes Bus Station, North Platform D & E",
+      "suburb": "St Lucia",
+      "timetext": "12.15pm - 12.20pm"
+    },
+    {
+      "added": "2021-07-31T15:28",
+      "address": "66 Ernest St",
+      "date": "2021-07-28T18:00",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Southbank TAFE Campus",
+      "suburb": "South Brisbane",
+      "timetext": "6pm - 9pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "37 Ward Street",
+      "date": "2021-07-29T00:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Holy Family School Hall",
+      "suburb": "Indooroopilly",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-07-31T17:23",
+      "address": "322 Moggill Road",
+      "date": "2021-07-29T08:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "8.30am - 11am"
+    },
+    {
+      "added": "2021-07-30T16:05",
+      "address": "Court Street",
+      "date": "2021-07-29T09:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD74",
+      "location": "Ipswich Hospital Fever Clinic",
+      "suburb": "Ipswich",
+      "timetext": "9am - 10am"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "1 Airport Av",
+      "date": "2021-07-29T11:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Cairns Domestic Airport (other than baggage carousel)",
+      "suburb": "Cairns North",
+      "timetext": "11.15am - 11.45am"
+    },
+    {
+      "added": "2021-08-03T21:26",
+      "address": "1/21 Mcleod St",
+      "date": "2021-07-29T12:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD272",
+      "location": "Cairns Central Shopping Centre",
+      "suburb": "Cairns City",
+      "timetext": "12pm - 1pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "30 Health Care Drive",
+      "date": "2021-07-29T13:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD74",
+      "location": "Mater Private Hospital",
+      "suburb": "Springfield Central",
+      "timetext": "1pm - 4.30pm"
+    },
+    {
+      "added": "2021-08-02T17:52",
+      "address": "Playhouse Parent and Childcare Centre, UQ St Lucia Campus",
+      "date": "2021-07-29T15:08",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "0-2 years classrooms and play area (Honey ants and Tree Frogs)",
+      "suburb": "St Lucia",
+      "timetext": "3.08pm - 5.21pm"
+    },
+    {
+      "added": "2021-07-31T17:23",
+      "address": "322 Moggill Road",
+      "date": "2021-07-29T15:10",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "3.10pm - 3.30pm"
+    },
+    {
+      "added": "2021-08-03T19:07",
+      "address": "322 Moggill Road",
+      "date": "2021-07-29T16:15",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "4.15pm - 5.15pm"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "Faulkner Park, Waratah Ave",
+      "date": "2021-07-29T16:30",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Western Districts Netball Association - Entire venue except Court 1",
+      "suburb": "Graceville",
+      "timetext": "4.30pm - 5.40pm"
+    },
+    {
+      "added": "2021-08-02T17:52",
+      "address": "94-108 Coonan St",
+      "date": "2021-07-29T18:00",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Bunnings Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "6pm - 6.12pm"
+    },
+    {
+      "added": "2021-08-02T21:51",
+      "address": "37 Ward Street",
+      "date": "2021-07-30T00:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Holy Family School Hall",
+      "suburb": "Indooroopilly",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-03T21:26",
+      "address": "1/21 Mcleod St",
+      "date": "2021-07-30T08:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD272",
+      "location": "Cairns Central Shopping Centre",
+      "suburb": "Cairns City",
+      "timetext": "8am - 10.30am"
+    },
+    {
+      "added": "2021-08-03T18:24",
+      "address": "339 Coronation Dr",
+      "date": "2021-07-30T08:10",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "John Oxley Centre",
+      "suburb": "Milton",
+      "timetext": "8.10am - 9am"
+    },
+    {
+      "added": "2021-08-03T15:37",
+      "address": "144 Adelaide St",
+      "date": "2021-07-30T08:20",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Blocksidge Building",
+      "suburb": "Brisbane City",
+      "timetext": "8.20am - 8.30am"
+    },
+    {
+      "added": "2021-08-03T15:37",
+      "address": "179 Ann St",
+      "date": "2021-07-30T08:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "179 Ann St Parking",
+      "suburb": "Brisbane City",
+      "timetext": "8.30am - 8.40am"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "10/621 Coronation Dr",
+      "date": "2021-07-30T08:30",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
+      "suburb": "Toowong",
+      "timetext": "8.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-03T15:37",
+      "address": "358 Mains Rd",
+      "date": "2021-07-30T11:40",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Sunnybank Plaza",
+      "suburb": "Sunnybank",
+      "timetext": "11.40am - 1.15pm"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "111 Constance St",
+      "date": "2021-07-30T12:12",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Oche Fortitude Valley, 2nd floor",
+      "suburb": "Fortitude Valley",
+      "timetext": "12.12pm - 3.30pm"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "322 Moggill Rd",
+      "date": "2021-07-30T15:25",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping centre",
+      "suburb": "Indooroopilly",
+      "timetext": "3.25pm - 4.55pm"
+    },
+    {
+      "added": "2021-08-03T10:05",
+      "address": "9 Sherwood Road",
+      "date": "2021-07-30T15:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Toowong Village Shopping Centre",
+      "suburb": "Toowong",
+      "timetext": "3.45pm - 5.15pm"
+    },
+    {
+      "added": "2021-08-02T15:55",
+      "address": "81 Canoona Rd",
+      "date": "2021-07-30T17:25",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD289",
+      "location": "Rockhampton Airport",
+      "suburb": "West Rockhampton",
+      "timetext": "5.25pm - 6.35pm"
+    },
+    {
+      "added": "2021-08-03T17:52",
+      "address": "Fitzroy Island",
+      "date": "2021-07-31T00:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD272",
+      "location": "Fitzroy Island",
+      "suburb": "Fitzroy Island",
+      "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "Faulkner Park, Waratah Ave",
+      "date": "2021-07-31T09:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Courts 21, 23 & 24 - Western Districts Netball Association",
+      "suburb": "Graceville",
+      "timetext": "9.45am - 11.30am"
+    },
+    {
+      "added": "2021-08-02T18:43",
+      "address": "322 Moggill Rd",
+      "date": "2021-07-31T10:01",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "10.01am - 11.10am"
+    },
+    {
+      "added": "2021-08-01T17:27",
+      "address": "78-80 Coonan St",
+      "date": "2021-07-31T10:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "McDonalds Indooroopilly",
+      "suburb": "Indooroopilly",
+      "timetext": "10.40am - 10.50am"
+    },
+    {
+      "added": "2021-08-02T18:43",
+      "address": "Shop 1/77 Sir Fred Schonell Dr",
+      "date": "2021-07-31T10:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "DJ Supercuts",
+      "suburb": "St Lucia",
+      "timetext": "10.40am - 11.15am"
+    },
+    {
+      "added": "2021-08-04T09:32",
+      "address": "322 Moggill Road",
+      "date": "2021-07-31T11:15",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Indooroopilly Shopping Centre",
+      "suburb": "Indooroopilly",
+      "timetext": "11.15am - 12.50pm"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "Montague Rd &, Jane St",
+      "date": "2021-07-31T11:34",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "West End Markets",
+      "suburb": "West End",
+      "timetext": "11.34am - 12.15pm"
+    },
+    {
+      "added": "2021-08-03T20:40",
+      "address": "10/621 Coronation Dr",
+      "date": "2021-07-31T12:15",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
+      "suburb": "Toowong",
+      "timetext": "12.15pm - 12.50pm"
+    },
+    {
+      "added": "2021-08-02T15:54",
+      "address": "11 Ruthven St",
+      "date": "2021-07-31T13:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "St Aidan’s Anglican Girls’ School",
+      "suburb": "Corinda",
+      "timetext": "1pm - 4pm"
+    }
+  ]
+}
