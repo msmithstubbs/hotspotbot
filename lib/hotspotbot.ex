@@ -22,7 +22,8 @@ defmodule Hotspotbot do
     with {:ok, response} <- HTTPoison.get(@url),
          {:ok, document} <- Floki.parse_document(response.body) do
       extract(document)
-      |> IO.inspect()
+      |> Jason.encode!()
+      |> IO.puts()
     end
   end
 
@@ -39,6 +40,7 @@ defmodule Hotspotbot do
 
       {key, data}
     end)
+    |> Enum.into(%{})
   end
 
   def parse_table(table) do
