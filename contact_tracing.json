@@ -373,16 +373,6 @@ Generated hotspotbot app
       "timetext": "7.30pm - 8.30pm"
     },
     {
-      "added": "2021-08-03T17:52",
-      "address": "Brisbane to Cairns",
-      "date": "2021-07-29T9:17",
-      "datetext": "Thursday 29 July 2021",
-      "lgas": "",
-      "location": "Qantas flight QF708 (Casual contact unless contacted by a Public Health Official)",
-      "suburb": "Brisbane to Cairns",
-      "timetext": "9.17am - 11.15am"
-    },
-    {
       "added": "2021-08-02T21:51",
       "address": "The University of Queensland, 280-284 Sir Fred Schonell Road",
       "date": "2021-07-30T09:00",
@@ -1405,6 +1395,16 @@ Generated hotspotbot app
       "timetext": "9am - 12pm"
     },
     {
+      "added": "2021-08-04T10:57",
+      "address": "Brisbane to Cairns",
+      "date": "2021-07-29T09:17",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "",
+      "location": "Qantas flight QF708",
+      "suburb": "Brisbane to Cairns",
+      "timetext": "9.17am - 11.15am"
+    },
+    {
       "added": "2021-08-02T11:59",
       "address": "Indooroopilly shopping centre",
       "date": "2021-07-29T09:20",
@@ -1615,14 +1615,14 @@ Generated hotspotbot app
       "timetext": "3.55pm - 4.30pm"
     },
     {
-      "added": "2021-08-03T21:23",
-      "address": "1-7 Maritime Way,",
+      "added": "2021-08-04T10:57",
+      "address": "1 Maritime Way",
       "date": "2021-07-29T16:00",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD272",
       "location": "Bluewater Village Early Learning",
       "suburb": "Trinity Beach",
-      "timetext": "4pm - 11.59pm"
+      "timetext": "4pm - 6.30pm"
     },
     {
       "added": "2021-08-03T19:08",
@@ -1685,8 +1685,8 @@ Generated hotspotbot app
       "timetext": "12am - 4pm"
     },
     {
-      "added": "2021-08-03T17:52",
-      "address": "1-7 Maritime Way",
+      "added": "2021-08-04T10:57",
+      "address": "1 Maritime Way",
       "date": "2021-07-30T00:00",
       "datetext": "Friday 30 July 2021",
       "lgas": "QLD272",
@@ -2055,12 +2055,12 @@ Generated hotspotbot app
       "timetext": "8.15am - 1pm"
     },
     {
-      "added": "2021-08-03T21:23",
+      "added": "2021-08-04T10:57",
       "address": "Cairns Marlin Marina, 1 Spence St",
       "date": "2021-07-31T09:00",
       "datetext": "Saturday 31 July 2021",
       "lgas": "QLD272",
-      "location": "Fitzroy Island Adventures, Ferry to Fitzroy Island",
+      "location": "Reef Magic II Ferry to Fitzroy Island",
       "suburb": "Cairns City",
       "timetext": "9am - 10am"
     },
@@ -2265,12 +2265,12 @@ Generated hotspotbot app
       "timetext": "12.05pm - 12.15pm"
     },
     {
-      "added": "2021-08-03T21:23",
+      "added": "2021-08-04T10:57",
       "address": "Fitzroy Island Jetty",
       "date": "2021-07-31T15:45",
       "datetext": "Saturday 31 July 2021",
       "lgas": "QLD272",
-      "location": "Fitzroy Island Adventures, Ferry to Cairns",
+      "location": "Reef Magic II Ferry to Cairns",
       "suburb": "Fitzroy Island",
       "timetext": "3.45pm - 4.30pm"
     },
@@ -2285,8 +2285,8 @@ Generated hotspotbot app
       "timetext": "10am - 12.15pm"
     },
     {
-      "added": "2021-08-03T17:52",
-      "address": "1-7 Maritime Way",
+      "added": "2021-08-04T10:57",
+      "address": "1 Maritime Way",
       "date": "2021-08-02T00:00",
       "datetext": "Monday 2 August 2021",
       "lgas": "QLD272",
@@ -2305,8 +2305,8 @@ Generated hotspotbot app
       "timetext": "8.13am - 8.20am"
     },
     {
-      "added": "2021-08-03T17:52",
-      "address": "1-7 Maritime Way",
+      "added": "2021-08-04T10:57",
+      "address": "1 Maritime Way",
       "date": "2021-08-03T00:00",
       "datetext": "Tuesday 3 August 2021",
       "lgas": "QLD272",
@@ -2497,8 +2497,8 @@ Generated hotspotbot app
       "timetext": "11.15am - 11.45am"
     },
     {
-      "added": "2021-08-03T21:26",
-      "address": "1/21 Mcleod St",
+      "added": "2021-08-04T11:03",
+      "address": "1/21 Mcleod St & Spence St",
       "date": "2021-07-29T12:00",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD272",
