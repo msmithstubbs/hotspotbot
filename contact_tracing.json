@@ -373,6 +373,16 @@ Generated hotspotbot app
       "timetext": "4.20pm - 4.25pm"
     },
     {
+      "added": "2021-08-05T12:08",
+      "address": "Cnr Blair Dr and Union Rd, The University of Queensland",
+      "date": "2021-07-29T16:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Sport Aquatic Centre (except Crocodiles group training)",
+      "suburb": "St Lucia",
+      "timetext": "4.45pm - 6.05pm"
+    },
+    {
       "added": "2021-08-05T02:49",
       "address": "66 Harts Rd",
       "date": "2021-07-29T18:30",
@@ -541,6 +551,16 @@ Generated hotspotbot app
       "location": "Pullenvale Jabiru After School Care, Pullenvale State School",
       "suburb": "Pullenvale",
       "timetext": "4.30pm - 4.45pm"
+    },
+    {
+      "added": "2021-08-05T12:08",
+      "address": "Cnr Blair Dr and Union Rd The University of Queensland",
+      "date": "2021-07-30T16:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "UQ Sport Aquatic Centre (except Barracuda group training)",
+      "suburb": "St Lucia",
+      "timetext": "4.45pm - 6.05pm"
     },
     {
       "added": "2021-08-01T20:55",
@@ -1415,6 +1435,16 @@ Generated hotspotbot app
       "timetext": "5.15pm - 6pm"
     },
     {
+      "added": "2021-08-05T12:07",
+      "address": "40/45 Indooroopilly Rd",
+      "date": "2021-07-28T17:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Jack Cook Memorial Park - U8 Eagle Group, Taringa Rovers Soccer Club",
+      "suburb": "Toowong",
+      "timetext": "5.30pm - 6.30pm"
+    },
+    {
       "added": "2021-07-31T15:45",
       "address": "66 Ernest St",
       "date": "2021-07-28T19:00",
@@ -1815,6 +1845,16 @@ Generated hotspotbot app
       "timetext": "4.30pm - 5.40pm"
     },
     {
+      "added": "2021-08-05T12:07",
+      "address": "Cnr Blair Dr and Union Rd, The University of Queensland",
+      "date": "2021-07-29T16:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Crocodiles group training - UQ Sport Aquatic Centre",
+      "suburb": "St Lucia",
+      "timetext": "4.45pm - 6.05pm"
+    },
+    {
       "added": "2021-08-02T21:50",
       "address": "Holy Family School Hall, 37 Ward Street",
       "date": "2021-07-29T18:00",
@@ -2213,6 +2253,16 @@ Generated hotspotbot app
       "location": "Georgie Parkes Swim School",
       "suburb": "St Lucia",
       "timetext": "4.15pm - 4.45pm"
+    },
+    {
+      "added": "2021-08-05T12:07",
+      "address": "Cnr Blair Dr and Union Rd, The University of Queensland",
+      "date": "2021-07-30T16:45",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD21",
+      "location": "Barracuda group training - UQ Sport Aquatic Centre",
+      "suburb": "St Lucia",
+      "timetext": "4.45pm - 6.05pm"
     },
     {
       "added": "2021-08-03T18:23",
@@ -2765,6 +2815,16 @@ Generated hotspotbot app
       "location": "UQ Lakes Bus Station, North Platform D & E",
       "suburb": "St Lucia",
       "timetext": "12.15pm - 12.20pm"
+    },
+    {
+      "added": "2021-08-05T12:09",
+      "address": "40/45 Indooroopilly Rd",
+      "date": "2021-07-28T17:30",
+      "datetext": "Wednesday 28 July 2021",
+      "lgas": "QLD21",
+      "location": "Jack Cook Memorial Park –Taringa Rovers Soccer Club training (except U8 Eagle Group)",
+      "suburb": "Toowong",
+      "timetext": "5.30pm - 6.30pm"
     },
     {
       "added": "2021-07-31T15:28",
