@@ -433,6 +433,16 @@ Generated hotspotbot app
       "timetext": "9.54am - 12.20pm"
     },
     {
+      "added": "2021-08-05T18:18",
+      "address": "44 Brisbane Street",
+      "date": "2021-07-30T10:49",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD74",
+      "location": "Officeworks",
+      "suburb": "Ipswich",
+      "timetext": "10.49am - 11.15am"
+    },
+    {
       "added": "2021-08-04T19:09",
       "address": "15 Lissner Street",
       "date": "2021-07-30T11:20",
@@ -2025,6 +2035,16 @@ Generated hotspotbot app
       "timetext": "9.45am - 10.05am"
     },
     {
+      "added": "2021-08-05T18:19",
+      "address": "12 Coal Street",
+      "date": "2021-07-30T11:18",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD74",
+      "location": "Bundamba Family Store – The Salvation Army",
+      "suburb": "Bundamba",
+      "timetext": "11.18am - 12pm"
+    },
+    {
       "added": "2021-08-03T15:34",
       "address": "Shop 86 Sunnybank Plaza, 358 Mains Rd",
       "date": "2021-07-30T11:40",
@@ -2365,24 +2385,14 @@ Generated hotspotbot app
       "timetext": "9am - 10am"
     },
     {
-      "added": "2021-08-05T02:49",
+      "added": "2021-08-05T18:02",
       "address": "23A Glen Affric Street",
-      "date": "2021-07-31T09:30",
+      "date": "2021-07-31T09:15",
       "datetext": "Saturday 31 July 2021",
       "lgas": "QLD21",
       "location": "The Gap Football Club House - Inside",
       "suburb": "The Gap",
-      "timetext": "9.30am - 9.45am"
-    },
-    {
-      "added": "2021-08-05T02:49",
-      "address": "23A Glen Affric Street",
-      "date": "2021-07-31T09:45",
-      "datetext": "Saturday 31 July 2021",
-      "lgas": "QLD21",
-      "location": "The Gap Football Club Field 2 Under 12's Norths vs Under 12's Grange",
-      "suburb": "The Gap",
-      "timetext": "9.45am - 11am"
+      "timetext": "9.15am - 9.45am"
     },
     {
       "added": "2021-08-02T15:54",
@@ -2423,6 +2433,16 @@ Generated hotspotbot app
       "location": "TOMRA recycling centre west end",
       "suburb": "West End",
       "timetext": "10am - 11.05am"
+    },
+    {
+      "added": "2021-08-05T18:02",
+      "address": "23A Glen Affric Street",
+      "date": "2021-07-31T10:10",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "The Gap Football Club Field 2 Under 12's Norths vs Under 12's Grange",
+      "suburb": "The Gap",
+      "timetext": "10.10am - 11am"
     },
     {
       "added": "2021-08-02T18:41",
@@ -2495,6 +2515,16 @@ Generated hotspotbot app
       "timetext": "11.25am - 11.50am"
     },
     {
+      "added": "2021-08-05T18:19",
+      "address": "West End Markets, Davies Park",
+      "date": "2021-07-31T11:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Coffee mentality",
+      "suburb": "West End",
+      "timetext": "11.30am - 11.40am"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "West End Markets",
       "date": "2021-07-31T11:30",
@@ -2503,6 +2533,16 @@ Generated hotspotbot app
       "location": "Coffee mentality",
       "suburb": "West End",
       "timetext": "11.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-05T18:19",
+      "address": "West End Markets, Davies Park",
+      "date": "2021-07-31T11:40",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Fresh berries direct",
+      "suburb": "West End",
+      "timetext": "11.40am - 11.50am"
     },
     {
       "added": "2021-08-03T20:32",
@@ -2555,6 +2595,16 @@ Generated hotspotbot app
       "timetext": "11.50am - 12pm"
     },
     {
+      "added": "2021-08-05T18:19",
+      "address": "West End Markets, Davies Park",
+      "date": "2021-07-31T11:50",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Charlie fruit and Veg",
+      "suburb": "West End",
+      "timetext": "11.50am - 11.55am"
+    },
+    {
       "added": "2021-08-03T20:32",
       "address": "West End Markets",
       "date": "2021-07-31T11:50",
@@ -2565,8 +2615,8 @@ Generated hotspotbot app
       "timetext": "11.50am - 11.55am"
     },
     {
-      "added": "2021-08-04T14:18",
-      "address": "Westend markets",
+      "added": "2021-08-05T18:19",
+      "address": "West End Markets, Davies Park",
       "date": "2021-07-31T11:55",
       "datetext": "Saturday 31 July 2021",
       "lgas": "QLD142",
@@ -2612,6 +2662,16 @@ Generated hotspotbot app
       "lgas": "QLD21",
       "location": "Kmart",
       "suburb": "Indooroopilly",
+      "timetext": "12.05pm - 12.15pm"
+    },
+    {
+      "added": "2021-08-05T18:19",
+      "address": "West End Markets, Davies Park",
+      "date": "2021-07-31T12:05",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD142",
+      "location": "Juicy Choice",
+      "suburb": "West End",
       "timetext": "12.05pm - 12.15pm"
     },
     {
@@ -2997,6 +3057,16 @@ Generated hotspotbot app
       "timetext": "8am - 10.30am"
     },
     {
+      "added": "2021-08-05T18:18",
+      "address": "Yamanto Shopping Village, 512 Warwick Rd,",
+      "date": "2021-07-30T08:00",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD74",
+      "location": "Yamanto Bakery",
+      "suburb": "Yamanto",
+      "timetext": "8am - 8.17am"
+    },
+    {
       "added": "2021-08-03T18:24",
       "address": "339 Coronation Dr",
       "date": "2021-07-30T08:10",
@@ -3035,6 +3105,16 @@ Generated hotspotbot app
       "location": "Suite 10/621 Coronation Dr Toowong (except Hall Property Solution unit)",
       "suburb": "Toowong",
       "timetext": "8.30am - 11.40am"
+    },
+    {
+      "added": "2021-08-05T18:18",
+      "address": "44 Brisbane Street,",
+      "date": "2021-07-30T10:49",
+      "datetext": "Friday 30 July 2021",
+      "lgas": "QLD74",
+      "location": "Officeworks/Coles entrance",
+      "suburb": "Ipswich",
+      "timetext": "10.49am - 11.15am"
     },
     {
       "added": "2021-08-04T19:09",
@@ -3127,14 +3207,14 @@ Generated hotspotbot app
       "timetext": "7am - 10am"
     },
     {
-      "added": "2021-08-05T02:49",
+      "added": "2021-08-05T18:02",
       "address": "23A Glen Affric Street",
-      "date": "2021-07-31T09:45",
+      "date": "2021-07-31T09:15",
       "datetext": "Saturday 31 July 2021",
       "lgas": "QLD21",
-      "location": "The Gap Football Club Sides of Field 2 (spectators)",
+      "location": "The Gap Football Club Field 2",
       "suburb": "The Gap",
-      "timetext": "9.45am - 11am"
+      "timetext": "9.15am - 11.15am"
     },
     {
       "added": "2021-08-02T15:54",
@@ -3247,8 +3327,8 @@ Generated hotspotbot app
       "timetext": "1pm - 4pm"
     },
     {
-      "added": "2021-08-05T14:38",
-      "address": "15 Hancock Street",
+      "added": "2021-08-05T18:02",
+      "address": "Hancock Street",
       "date": "2021-08-04T07:30",
       "datetext": "Wednesday 4 August 2021",
       "lgas": "QLD21",
