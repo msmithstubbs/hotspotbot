@@ -2325,6 +2325,16 @@ Generated hotspotbot app
       "timetext": "8.15pm - 8.35pm"
     },
     {
+      "added": "2021-08-05T14:36",
+      "address": "Anglican Church Grammar School, Oaklands Parade",
+      "date": "2021-07-31T07:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "New Field, Churchie Sporting Fields",
+      "suburb": "East Brisbane",
+      "timetext": "7am - 10am"
+    },
+    {
       "added": "2021-08-02T15:54",
       "address": "11 Ruthven St",
       "date": "2021-07-31T08:15",
@@ -3097,6 +3107,16 @@ Generated hotspotbot app
       "timetext": "12am - 11.59pm"
     },
     {
+      "added": "2021-08-05T14:38",
+      "address": "Anglican Church Grammar School, Oaklands Parade",
+      "date": "2021-07-31T07:00",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Churchie Sporting Fields – other than New Field",
+      "suburb": "East Brisbane",
+      "timetext": "7am - 10am"
+    },
+    {
       "added": "2021-08-05T02:49",
       "address": "23A Glen Affric Street",
       "date": "2021-07-31T09:45",
@@ -3215,6 +3235,16 @@ Generated hotspotbot app
       "location": "St Aidan’s Anglican Girls’ School",
       "suburb": "Corinda",
       "timetext": "1pm - 4pm"
+    },
+    {
+      "added": "2021-08-05T14:38",
+      "address": "15 Hancock Street",
+      "date": "2021-08-04T07:30",
+      "datetext": "Wednesday 4 August 2021",
+      "lgas": "QLD21",
+      "location": "Hancock Street Car Park P1",
+      "suburb": "South Brisbane",
+      "timetext": "7.30am - 8.30am"
     }
   ]
 }
