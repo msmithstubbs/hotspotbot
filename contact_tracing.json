@@ -383,24 +383,14 @@ Generated hotspotbot app
       "timetext": "4.45pm - 6.05pm"
     },
     {
-      "added": "2021-08-05T02:49",
+      "added": "2021-08-05T20:25",
       "address": "66 Harts Rd",
       "date": "2021-07-29T18:30",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD21",
-      "location": "St Peters Lutheran College – Open-air corridors outside MNS3, MSN4, MSO4, MSO5",
+      "location": "St Peters Lutheran College – all debating rooms other than MSN3 or open-air corridors outside MSN3, MSN4, MSO4, MSO5",
       "suburb": "Indooroopilly",
-      "timetext": "6.30pm - 6.45pm"
-    },
-    {
-      "added": "2021-08-01T20:22",
-      "address": "66 Harts Rd",
-      "date": "2021-07-29T19:30",
-      "datetext": "Thursday 29 July 2021",
-      "lgas": "QLD21",
-      "location": "St Peters Lutheran College – Debating event Room (other than those in room MSN3)",
-      "suburb": "Indooroopilly",
-      "timetext": "7.30pm - 8.30pm"
+      "timetext": "6.30pm - 8.30pm"
     },
     {
       "added": "2021-08-02T21:51",
@@ -1205,14 +1195,14 @@ Generated hotspotbot app
       "timetext": "8am - 10am"
     },
     {
-      "added": "2021-08-04T20:28",
+      "added": "2021-08-05T20:25",
       "address": "Queensland Cultural Centre, Stanley Place.",
       "date": "2021-07-27T09:45",
       "datetext": "Tuesday 27 July 2021",
       "lgas": "QLD21",
-      "location": "Queensland Gallery of Modern Art",
+      "location": "Queensland Gallery of Modern Art (GOMA)",
       "suburb": "South Brisbane",
-      "timetext": "9.45am - 10.45am"
+      "timetext": "9.45am - 11am"
     },
     {
       "added": "2021-08-04T16:41",
@@ -1895,12 +1885,12 @@ Generated hotspotbot app
       "timetext": "6.12pm - 7.15pm"
     },
     {
-      "added": "2021-08-05T02:49",
+      "added": "2021-08-05T20:25",
       "address": "66 Harts Rd",
       "date": "2021-07-29T18:45",
       "datetext": "Thursday 29 July 2021",
       "lgas": "QLD21",
-      "location": "St Peters Lutheran College – MNS3",
+      "location": "St Peters Lutheran College – Room MSN3",
       "suburb": "Indooroopilly",
       "timetext": "6.45pm - 8.30pm"
     },
