@@ -3,16 +3,6 @@ Generated hotspotbot app
 {
   "casual": [
     {
-      "added": "2021-07-26T17:42",
-      "address": "1 Bowser Parade",
-      "date": "2021-07-22T10:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD21",
-      "location": "Sandgate Bakehouse",
-      "suburb": "Sandgate",
-      "timetext": "10am - 11am"
-    },
-    {
       "added": "2021-07-30T00:36",
       "address": "Gympie Rd",
       "date": "2021-07-23T11:06",
@@ -774,56 +764,6 @@ Generated hotspotbot app
     }
   ],
   "close": [
-    {
-      "added": "2021-07-28T18:44",
-      "address": "380 Upper Roma St",
-      "date": "2021-07-22T00:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane City Backpackers HQ",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-28T18:44",
-      "address": "390 Upper Roma St",
-      "date": "2021-07-22T00:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD21",
-      "location": "Joe’s Place Backpackers",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-25T18:37",
-      "address": "4 Woodlands Way",
-      "date": "2021-07-22T09:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD63",
-      "location": "Goodstart Early Learning Parkwood",
-      "suburb": "Parkwood",
-      "timetext": "9am - 10am"
-    },
-    {
-      "added": "2021-07-25T18:37",
-      "address": "4 Woodlands Way",
-      "date": "2021-07-22T17:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD63",
-      "location": "Goodstart Early Learning Parkwood",
-      "suburb": "Parkwood",
-      "timetext": "5pm - 6pm"
-    },
-    {
-      "added": "2021-07-25T12:11",
-      "address": "100 Buckland Rd",
-      "date": "2021-07-22T20:00",
-      "datetext": "Thursday 22 July 2021",
-      "lgas": "QLD21",
-      "location": "Prince of Wales Hotel",
-      "suburb": "Nundah",
-      "timetext": "8pm - 9pm"
-    },
     {
       "added": "2021-07-28T18:44",
       "address": "380 Upper Roma St",
@@ -2345,6 +2285,16 @@ Generated hotspotbot app
       "timetext": "8.15pm - 8.35pm"
     },
     {
+      "added": "2021-08-06T12:20",
+      "address": "531 Seventeen Mile Rocks Rd",
+      "date": "2021-07-31T06:45",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Park Run at Rocks Riverside Park",
+      "suburb": "Seventeen Mile Rocks",
+      "timetext": "6.45am - 8.30am"
+    },
+    {
       "added": "2021-08-05T14:36",
       "address": "Anglican Church Grammar School, Oaklands Parade",
       "date": "2021-07-31T07:00",
@@ -2915,6 +2865,16 @@ Generated hotspotbot app
       "location": "Holy Family School Hall",
       "suburb": "Indooroopilly",
       "timetext": "12am - 11.59pm"
+    },
+    {
+      "added": "2021-08-06T12:21",
+      "address": "Airport Drive",
+      "date": "2021-07-29T07:45",
+      "datetext": "Thursday 29 July 2021",
+      "lgas": "QLD21",
+      "location": "Brisbane Airport (Domestic)",
+      "suburb": "Brisbane Airport",
+      "timetext": "7.45am - 9am"
     },
     {
       "added": "2021-07-31T17:23",
