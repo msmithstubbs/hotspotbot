@@ -2315,6 +2315,16 @@ Generated hotspotbot app
       "timetext": "8.15am - 1pm"
     },
     {
+      "added": "2021-08-06T15:12",
+      "address": "Cairns Cowan Drive",
+      "date": "2021-07-31T08:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Lions Rugby Union Club - sports field – teams and coaching staff",
+      "suburb": "Karana Downs",
+      "timetext": "8.30am - 10am"
+    },
+    {
       "added": "2021-08-04T10:57",
       "address": "Cairns Marlin Marina, 1 Spence St",
       "date": "2021-07-31T09:00",
@@ -3155,6 +3165,16 @@ Generated hotspotbot app
       "location": "Churchie Sporting Fields – other than New Field",
       "suburb": "East Brisbane",
       "timetext": "7am - 10am"
+    },
+    {
+      "added": "2021-08-06T15:18",
+      "address": "Cairns Cowan Drive",
+      "date": "2021-07-31T08:30",
+      "datetext": "Saturday 31 July 2021",
+      "lgas": "QLD21",
+      "location": "Lions Rugby Union Club –sport field – spectators",
+      "suburb": "Karana Downs",
+      "timetext": "8.30am - 10am"
     },
     {
       "added": "2021-08-05T18:02",
