@@ -3,56 +3,6 @@ Generated hotspotbot app
 {
   "casual": [
     {
-      "added": "2021-07-30T00:36",
-      "address": "Gympie Rd",
-      "date": "2021-07-23T11:06",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "David Jones – Westfield Chermside",
-      "suburb": "Chermside",
-      "timetext": "11.06am - 11.13am"
-    },
-    {
-      "added": "2021-07-25T19:23",
-      "address": "Gympie Rd",
-      "date": "2021-07-23T12:00",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Little Sparrow Café – Westfield Chermside",
-      "suburb": "Chermside",
-      "timetext": "12pm - 1pm"
-    },
-    {
-      "added": "2021-07-26T17:42",
-      "address": "279 Tufnell Road",
-      "date": "2021-07-23T13:15",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Woolworths  - Banyo Retail Centre",
-      "suburb": "Banyo",
-      "timetext": "1.15pm - 2.15pm"
-    },
-    {
-      "added": "2021-07-29T11:47",
-      "address": "Q Super Centre, Cnr, Markeri & Bermuda Streets",
-      "date": "2021-07-23T13:40",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD63",
-      "location": "Q Super Centre Chempro Chemist",
-      "suburb": "Mermaid Waters",
-      "timetext": "1.40pm - 2pm"
-    },
-    {
-      "added": "2021-07-29T11:47",
-      "address": "Q Super Centre, Cnr Markeri and Bermuda Streets",
-      "date": "2021-07-23T13:45",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD63",
-      "location": "Goldsteins Bakery",
-      "suburb": "Mermaid Waters",
-      "timetext": "1.45pm - 2.05pm"
-    },
-    {
       "added": "2021-08-02T21:51",
       "address": "Holy Family School Hall, 37 Ward Street",
       "date": "2021-07-24T09:00",
@@ -761,89 +711,19 @@ Generated hotspotbot app
       "location": "Guzman y Gomez",
       "suburb": "Indooroopilly",
       "timetext": "3.20pm - 3.40pm"
+    },
+    {
+      "added": "2021-08-07T13:44",
+      "address": "Mudgeeraba Market Shopping Centre, 3 Swan Ln",
+      "date": "2021-08-02T14:55",
+      "datetext": "Monday 2 August 2021",
+      "lgas": "QLD63",
+      "location": "Woolworths - Mudgeeraba",
+      "suburb": "Mudgeeraba",
+      "timetext": "2.55pm - 3.20pm"
     }
   ],
   "close": [
-    {
-      "added": "2021-07-28T18:44",
-      "address": "380 Upper Roma St",
-      "date": "2021-07-23T00:00",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane City Backpackers HQ",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-28T18:44",
-      "address": "390 Upper Roma St",
-      "date": "2021-07-23T00:00",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Joe’s Place Backpackers",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-25T18:37",
-      "address": "4 Woodlands Way",
-      "date": "2021-07-23T09:00",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD63",
-      "location": "Goodstart Early Learning Parkwood",
-      "suburb": "Parkwood",
-      "timetext": "9am - 10am"
-    },
-    {
-      "added": "2021-07-25T19:23",
-      "address": "1283 Sandgate Rd",
-      "date": "2021-07-23T09:45",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Centrelink Nundah",
-      "suburb": "Nundah",
-      "timetext": "9.45am - 10am"
-    },
-    {
-      "added": "2021-07-25T19:23",
-      "address": "1231 Sandgate Rd",
-      "date": "2021-07-23T09:50",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Burger Urge",
-      "suburb": "Nundah",
-      "timetext": "9.50am - 10.30am"
-    },
-    {
-      "added": "2021-07-26T17:41",
-      "address": "18 Banfield St",
-      "date": "2021-07-23T10:37",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Centrelink Chermside",
-      "suburb": "Chermside",
-      "timetext": "10.37am - 10.54am"
-    },
-    {
-      "added": "2021-07-26T17:41",
-      "address": "18 Banfield St",
-      "date": "2021-07-23T11:22",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Centrelink Chermside",
-      "suburb": "Chermside",
-      "timetext": "11.22am - 12.07pm"
-    },
-    {
-      "added": "2021-07-25T18:37",
-      "address": "4 Woodlands Way",
-      "date": "2021-07-23T17:00",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD63",
-      "location": "Goodstart Early Learning Parkwood",
-      "suburb": "Parkwood",
-      "timetext": "5pm - 6pm"
-    },
     {
       "added": "2021-07-28T18:44",
       "address": "380 Upper Roma St",
@@ -2656,26 +2536,6 @@ Generated hotspotbot app
     }
   ],
   "low_risk": [
-    {
-      "added": "2021-07-25T19:23",
-      "address": "Gympie Rd",
-      "date": "2021-07-23T10:30",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD21",
-      "location": "Westfield Chermside",
-      "suburb": "Chermside",
-      "timetext": "10.30am - 1pm"
-    },
-    {
-      "added": "2021-07-28T18:45",
-      "address": "Cnr Markeri & Bermuda Sts, Mermaid Waters",
-      "date": "2021-07-23T11:45",
-      "datetext": "Friday 23 July 2021",
-      "lgas": "QLD63",
-      "location": "Q Super Shopping Centre",
-      "suburb": "Mermaid Waters",
-      "timetext": "11.45am - 2pm"
-    },
     {
       "added": "2021-07-26T14:12",
       "address": "1-29 Millaroo Drive",
