@@ -3,16 +3,6 @@ Generated hotspotbot app
 {
   "casual": [
     {
-      "added": "2021-08-01T18:05",
-      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
-      "date": "2021-07-26T09:57",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Otto Hirschfeld Building (Building 81)",
-      "suburb": "St Lucia",
-      "timetext": "9.57am - 10.30am"
-    },
-    {
       "added": "2021-08-01T14:14",
       "address": "120 Grandview Road",
       "date": "2021-07-27T06:50",
@@ -884,76 +874,6 @@ Generated hotspotbot app
     }
   ],
   "close": [
-    {
-      "added": "2021-08-04T20:28",
-      "address": "24 Gregory Terrace",
-      "date": "2021-07-26T00:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane Grammar School Campus (Including indoor sporting centre)",
-      "suburb": "Spring Hill",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-08-03T20:32",
-      "address": "2 Hawken Drive",
-      "date": "2021-07-26T00:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Ironside State School",
-      "suburb": "St Lucia",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-08-03T20:32",
-      "address": "2 Hawken Drive",
-      "date": "2021-07-26T00:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Outside School Hours Care, Ironside State School",
-      "suburb": "St Lucia",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-28T18:44",
-      "address": "380 Upper Roma St",
-      "date": "2021-07-26T00:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Brisbane City Backpackers HQ",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-07-28T18:44",
-      "address": "390 Upper Roma St",
-      "date": "2021-07-26T00:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Joe’s Place Backpackers",
-      "suburb": "Brisbane City",
-      "timetext": "12am - 11.59pm"
-    },
-    {
-      "added": "2021-08-03T19:08",
-      "address": "The University of Queensland, 280-284 Sir Fred Schonell Dr",
-      "date": "2021-07-26T09:57",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Otto Hirschfeld Building. Level 2, Lab room 210",
-      "suburb": "St Lucia",
-      "timetext": "9.57am - 10.30am"
-    },
-    {
-      "added": "2021-08-02T17:51",
-      "address": "12 Wongabel St",
-      "date": "2021-07-26T15:00",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Lees & Henschell Optometry Kenmore",
-      "suburb": "Kenmore",
-      "timetext": "3pm - 3.30pm"
-    },
     {
       "added": "2021-08-04T20:28",
       "address": "24 Gregory Terrace",
@@ -2615,24 +2535,24 @@ Generated hotspotbot app
       "timetext": "3pm - 5pm"
     },
     {
-      "added": "2021-08-09T13:19",
+      "added": "2021-08-10T09:18",
       "address": "156 Grafton Street, Cnr Florence & Grafton Streets",
       "date": "2021-08-06T15:00",
       "datetext": "Friday 6 August 2021",
       "lgas": "QLD272",
       "location": "24 Hour Medical Centre Waiting Room",
       "suburb": "Cairns City",
-      "timetext": "3pm - 4.20pm"
+      "timetext": "3pm - 4.15pm"
     },
     {
-      "added": "2021-08-09T13:19",
+      "added": "2021-08-10T09:18",
       "address": "Cairns Day Surgery, Cnr Florence & Grafton Streets",
-      "date": "2021-08-06T16:20",
+      "date": "2021-08-06T16:10",
       "datetext": "Friday 6 August 2021",
       "lgas": "QLD272",
       "location": "QML Pathology",
       "suburb": "Cairns City",
-      "timetext": "4.20pm - 4.25pm"
+      "timetext": "4.10pm - 4.25pm"
     },
     {
       "added": "2021-08-09T13:19",
@@ -2646,46 +2566,6 @@ Generated hotspotbot app
     }
   ],
   "low_risk": [
-    {
-      "added": "2021-08-01T18:05",
-      "address": "Butterfield St",
-      "date": "2021-07-25T17:41",
-      "datetext": "Sunday 25 July 2021",
-      "lgas": "QLD21",
-      "location": "RBWH Ground Floor main atrium and entrance",
-      "suburb": "Herston",
-      "timetext": "5.41pm - 6.10pm"
-    },
-    {
-      "added": "2021-08-02T17:52",
-      "address": "841 Moggill Road",
-      "date": "2021-07-26T15:40",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "McDonalds Kenmore Drive Through",
-      "suburb": "Kenmore",
-      "timetext": "3.40pm - 3.45pm"
-    },
-    {
-      "added": "2021-07-28T18:45",
-      "address": "Butterfield Street",
-      "date": "2021-07-26T21:45",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Emergency Department waiting area - Royal Brisbane and Women’s Hospital",
-      "suburb": "Herston",
-      "timetext": "9.45pm - 10.03pm"
-    },
-    {
-      "added": "2021-07-28T18:45",
-      "address": "Butterfield Street",
-      "date": "2021-07-26T22:23",
-      "datetext": "Monday 26 July 2021",
-      "lgas": "QLD21",
-      "location": "Northern Ring Road Taxi rank (outside emergency department) - Royal Brisbane and Women’s Hospital",
-      "suburb": "Herston",
-      "timetext": "10.23pm - 10.58pm"
-    },
     {
       "added": "2021-08-02T21:51",
       "address": "37 Ward Street",
